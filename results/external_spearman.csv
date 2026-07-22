@@ -1,0 +1,17 @@
+model,target,Spearman_rho
+MLP,Abs. λmax (nm),0.602
+MLP,Em. λmax (nm),0.024
+MLP,ΦF (quantum yield),0.238
+MLP,log ε,-0.381
+1D-CNN,Abs. λmax (nm),0.398
+1D-CNN,Em. λmax (nm),0.429
+1D-CNN,ΦF (quantum yield),0.905
+1D-CNN,log ε,-0.167
+Transformer,Abs. λmax (nm),0.928
+Transformer,Em. λmax (nm),0.905
+Transformer,ΦF (quantum yield),0.357
+Transformer,log ε,-0.048
+GATv2,Abs. λmax (nm),0.205
+GATv2,Em. λmax (nm),0.31
+GATv2,ΦF (quantum yield),0.952
+GATv2,log ε,-0.214

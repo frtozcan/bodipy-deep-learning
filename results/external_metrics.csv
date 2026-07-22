@@ -1,0 +1,17 @@
+model,target,MAE,RMSE
+MLP,Abs. λmax (nm),8.483,10.951
+MLP,Em. λmax (nm),18.042,20.138
+MLP,ΦF (quantum yield),0.238,0.31
+MLP,log ε,0.122,0.136
+1D-CNN,Abs. λmax (nm),9.263,12.79
+1D-CNN,Em. λmax (nm),20.341,23.337
+1D-CNN,ΦF (quantum yield),0.085,0.119
+1D-CNN,log ε,0.049,0.057
+Transformer,Abs. λmax (nm),6.799,8.861
+Transformer,Em. λmax (nm),7.894,8.749
+Transformer,ΦF (quantum yield),0.152,0.181
+Transformer,log ε,0.09,0.101
+GATv2,Abs. λmax (nm),5.641,7.004
+GATv2,Em. λmax (nm),10.86,14.607
+GATv2,ΦF (quantum yield),0.19,0.238
+GATv2,log ε,0.042,0.055

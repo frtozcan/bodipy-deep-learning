@@ -1,0 +1,37 @@
+# Model checkpoints (kod + veriden yeniden uretilebilir, ~64 MB)
+results/ckpt_*.pt
+
+# Onbelleklenmis oznitelikler (feature_extraction.py yeniden uretir)
+data/processed/features.pkl
+
+# Calisma loglari
+results/*_log.txt
+results/*_err.txt
+
+# Eski / kopya taslak dosyalari (guncel olanlar manuscript/ icinde)
+MANUSCRIPT.md
+manuscript_draft.md
+paper/
+notebooks/
+src/*.txt
+
+# Proje calisma notlari (dahili)
+CLAUDE.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Isletim sistemi / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Gecici Word kilit dosyalari
+~$*.docx

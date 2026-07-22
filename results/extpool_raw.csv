@@ -1,0 +1,161 @@
+set,model,seed,target,n,MAE,RMSE,R2,rho
+pooled_external,MLP,0,Abs. λmax (nm),790,30.8652,39.4508,0.5662,0.7504
+pooled_external,MLP,0,Em. λmax (nm),790,34.8743,46.2931,0.4916,0.7244
+pooled_external,MLP,0,ΦF (quantum yield),748,0.2888,0.3397,0.0911,0.3861
+pooled_external,MLP,0,log ε,544,0.206,0.2545,0.1132,0.412
+derin2018,MLP,0,Abs. λmax (nm),8,7.8605,9.8719,-17.1841,0.5302
+derin2018,MLP,0,Em. λmax (nm),8,23.1254,26.0608,-23.7532,0.0238
+derin2018,MLP,0,ΦF (quantum yield),8,0.178,0.2196,0.36,0.5714
+derin2018,MLP,0,log ε,8,0.0417,0.0573,-0.7178,0.0
+pooled_external,1D-CNN,0,Abs. λmax (nm),790,35.9741,46.2321,0.4043,0.706
+pooled_external,1D-CNN,0,Em. λmax (nm),790,44.3002,57.7898,0.2078,0.6103
+pooled_external,1D-CNN,0,ΦF (quantum yield),748,0.337,0.3898,-0.1968,0.0915
+pooled_external,1D-CNN,0,log ε,544,0.1886,0.2443,0.183,0.5574
+derin2018,1D-CNN,0,Abs. λmax (nm),8,9.1911,15.1683,-41.9299,-0.5181
+derin2018,1D-CNN,0,Em. λmax (nm),8,15.5035,23.6978,-19.4679,-0.619
+derin2018,1D-CNN,0,ΦF (quantum yield),8,0.1718,0.2089,0.4204,0.5
+derin2018,1D-CNN,0,log ε,8,0.0381,0.0425,0.0549,0.6905
+pooled_external,Transformer,0,Abs. λmax (nm),790,44.1112,54.8911,0.1602,0.6518
+pooled_external,Transformer,0,Em. λmax (nm),790,45.5563,58.035,0.2011,0.5932
+pooled_external,Transformer,0,ΦF (quantum yield),748,0.3243,0.386,-0.1735,0.1155
+pooled_external,Transformer,0,log ε,544,0.1875,0.2435,0.1882,0.4212
+derin2018,Transformer,0,Abs. λmax (nm),8,17.9117,22.8617,-96.5224,0.9639
+derin2018,Transformer,0,Em. λmax (nm),8,17.7254,22.195,-16.9541,0.881
+derin2018,Transformer,0,ΦF (quantum yield),8,0.1524,0.1755,0.5911,0.4048
+derin2018,Transformer,0,log ε,8,0.0525,0.0671,-1.3582,-0.4286
+pooled_external,GATv2,0,Abs. λmax (nm),790,36.746,48.3299,0.349,0.7059
+pooled_external,GATv2,0,Em. λmax (nm),790,45.2614,57.9356,0.2038,0.6569
+pooled_external,GATv2,0,ΦF (quantum yield),748,0.321,0.3811,-0.1441,0.0899
+pooled_external,GATv2,0,log ε,544,0.2031,0.2593,0.0793,0.4786
+derin2018,GATv2,0,Abs. λmax (nm),8,7.0432,9.3866,-15.4401,-0.241
+derin2018,GATv2,0,Em. λmax (nm),8,14.9905,17.3561,-9.9789,-0.119
+derin2018,GATv2,0,ΦF (quantum yield),8,0.1209,0.1569,0.6733,0.5714
+derin2018,GATv2,0,log ε,8,0.0771,0.1085,-5.1558,0.8571
+pooled_external,MLP,1,Abs. λmax (nm),790,29.5896,37.0756,0.6169,0.7516
+pooled_external,MLP,1,Em. λmax (nm),790,32.5268,43.2185,0.5569,0.7219
+pooled_external,MLP,1,ΦF (quantum yield),748,0.2913,0.3413,0.0826,0.3734
+pooled_external,MLP,1,log ε,544,0.2006,0.2505,0.1407,0.4659
+derin2018,MLP,1,Abs. λmax (nm),8,7.6804,9.574,-16.1032,0.5302
+derin2018,MLP,1,Em. λmax (nm),8,22.1313,25.4797,-22.6616,0.1429
+derin2018,MLP,1,ΦF (quantum yield),8,0.186,0.236,0.2609,0.3333
+derin2018,MLP,1,log ε,8,0.0731,0.086,-2.8658,0.0
+pooled_external,1D-CNN,1,Abs. λmax (nm),790,32.6562,41.0535,0.5302,0.7587
+pooled_external,1D-CNN,1,Em. λmax (nm),790,42.569,53.0356,0.3328,0.6794
+pooled_external,1D-CNN,1,ΦF (quantum yield),748,0.3391,0.3866,-0.1775,0.071
+pooled_external,1D-CNN,1,log ε,544,0.1754,0.2272,0.2934,0.5431
+derin2018,1D-CNN,1,Abs. λmax (nm),8,5.4041,6.132,-6.016,0.2048
+derin2018,1D-CNN,1,Em. λmax (nm),8,7.7246,10.4819,-3.0044,0.2381
+derin2018,1D-CNN,1,ΦF (quantum yield),8,0.1224,0.1502,0.7007,0.7857
+derin2018,1D-CNN,1,log ε,8,0.0645,0.0814,-2.4671,-0.1905
+pooled_external,Transformer,1,Abs. λmax (nm),790,45.2114,58.2068,0.0557,0.6412
+pooled_external,Transformer,1,Em. λmax (nm),790,49.7196,63.9015,0.0314,0.5271
+pooled_external,Transformer,1,ΦF (quantum yield),748,0.3368,0.3995,-0.2572,0.0751
+pooled_external,Transformer,1,log ε,544,0.177,0.2284,0.286,0.566
+derin2018,Transformer,1,Abs. λmax (nm),8,11.1555,12.9925,-30.497,0.8916
+derin2018,Transformer,1,Em. λmax (nm),8,18.2387,18.9811,-12.131,0.7857
+derin2018,Transformer,1,ΦF (quantum yield),8,0.1854,0.2015,0.4608,0.3095
+derin2018,Transformer,1,log ε,8,0.0562,0.0605,-0.9144,0.4524
+pooled_external,GATv2,1,Abs. λmax (nm),790,38.9251,52.982,0.2176,0.5941
+pooled_external,GATv2,1,Em. λmax (nm),790,40.2888,52.5674,0.3445,0.6497
+pooled_external,GATv2,1,ΦF (quantum yield),748,0.343,0.3919,-0.2097,-0.0672
+pooled_external,GATv2,1,log ε,544,0.2184,0.2715,-0.0089,0.1775
+derin2018,GATv2,1,Abs. λmax (nm),8,21.3208,25.2907,-118.3458,0.3856
+derin2018,GATv2,1,Em. λmax (nm),8,28.2262,31.9544,-36.2149,0.2857
+derin2018,GATv2,1,ΦF (quantum yield),8,0.1836,0.2123,0.4019,0.5
+derin2018,GATv2,1,log ε,8,0.0804,0.0946,-3.6824,0.0476
+pooled_external,MLP,2,Abs. λmax (nm),790,30.804,38.7379,0.5817,0.7617
+pooled_external,MLP,2,Em. λmax (nm),790,34.4333,44.431,0.5317,0.7308
+pooled_external,MLP,2,ΦF (quantum yield),748,0.3075,0.3546,0.0093,0.2968
+pooled_external,MLP,2,log ε,544,0.1954,0.2421,0.1975,0.4905
+derin2018,MLP,2,Abs. λmax (nm),8,10.6238,12.6147,-28.6921,0.7591
+derin2018,MLP,2,Em. λmax (nm),8,15.1,18.9619,-12.1044,0.2619
+derin2018,MLP,2,ΦF (quantum yield),8,0.1841,0.2365,0.2577,0.4762
+derin2018,MLP,2,log ε,8,0.1007,0.1109,-5.4386,-0.2381
+pooled_external,1D-CNN,2,Abs. λmax (nm),790,37.4784,47.216,0.3786,0.7813
+pooled_external,1D-CNN,2,Em. λmax (nm),790,47.3152,59.7217,0.1539,0.6464
+pooled_external,1D-CNN,2,ΦF (quantum yield),748,0.3437,0.3997,-0.2587,-0.0083
+pooled_external,1D-CNN,2,log ε,544,0.1744,0.2282,0.287,0.5888
+derin2018,1D-CNN,2,Abs. λmax (nm),8,7.5086,9.3037,-15.1508,-0.1687
+derin2018,1D-CNN,2,Em. λmax (nm),8,10.8791,14.5775,-6.745,-0.381
+derin2018,1D-CNN,2,ΦF (quantum yield),8,0.1143,0.1448,0.7215,0.7619
+derin2018,1D-CNN,2,log ε,8,0.0532,0.0682,-1.4351,0.3333
+pooled_external,Transformer,2,Abs. λmax (nm),790,45.6312,57.9819,0.063,0.6871
+pooled_external,Transformer,2,Em. λmax (nm),790,45.6801,60.1788,0.1409,0.627
+pooled_external,Transformer,2,ΦF (quantum yield),748,0.3101,0.3642,-0.0449,0.1755
+pooled_external,Transformer,2,log ε,544,0.1626,0.2128,0.3802,0.6617
+derin2018,Transformer,2,Abs. λmax (nm),8,18.6466,22.4313,-92.8847,0.988
+derin2018,Transformer,2,Em. λmax (nm),8,22.2221,27.57,-26.7032,0.9048
+derin2018,Transformer,2,ΦF (quantum yield),8,0.1745,0.1879,0.5312,0.3333
+derin2018,Transformer,2,log ε,8,0.0493,0.0662,-1.2953,-0.2857
+pooled_external,GATv2,2,Abs. λmax (nm),790,40.4816,53.9752,0.188,0.5453
+pooled_external,GATv2,2,Em. λmax (nm),790,50.2365,65.8854,-0.0297,0.4609
+pooled_external,GATv2,2,ΦF (quantum yield),748,0.3329,0.3869,-0.1794,0.0094
+pooled_external,GATv2,2,log ε,544,0.2215,0.2809,-0.0799,0.4074
+derin2018,GATv2,2,Abs. λmax (nm),8,13.1993,13.9065,-35.0844,-0.3133
+derin2018,GATv2,2,Em. λmax (nm),8,16.8902,18.42,-11.3662,-0.5238
+derin2018,GATv2,2,ΦF (quantum yield),8,0.2008,0.2636,0.0778,0.2619
+derin2018,GATv2,2,log ε,8,0.065,0.0747,-1.9176,0.2619
+pooled_external,MLP,3,Abs. λmax (nm),790,31.4023,41.4125,0.522,0.7186
+pooled_external,MLP,3,Em. λmax (nm),790,34.8904,47.1938,0.4717,0.6851
+pooled_external,MLP,3,ΦF (quantum yield),748,0.3107,0.3602,-0.0221,0.2558
+pooled_external,MLP,3,log ε,544,0.1959,0.2459,0.1724,0.4951
+derin2018,MLP,3,Abs. λmax (nm),8,6.9163,8.2932,-11.8331,0.5302
+derin2018,MLP,3,Em. λmax (nm),8,19.6928,23.1987,-18.6148,0.2857
+derin2018,MLP,3,ΦF (quantum yield),8,0.1677,0.2161,0.3797,0.619
+derin2018,MLP,3,log ε,8,0.0765,0.0861,-2.8749,0.1905
+pooled_external,1D-CNN,3,Abs. λmax (nm),790,33.1242,41.9404,0.5097,0.7524
+pooled_external,1D-CNN,3,Em. λmax (nm),790,42.0954,53.0143,0.3333,0.6329
+pooled_external,1D-CNN,3,ΦF (quantum yield),748,0.3356,0.387,-0.1796,0.0594
+pooled_external,1D-CNN,3,log ε,544,0.1638,0.2154,0.3648,0.7175
+derin2018,1D-CNN,3,Abs. λmax (nm),8,9.0714,10.8277,-20.8757,0.6988
+derin2018,1D-CNN,3,Em. λmax (nm),8,15.6984,17.2213,-9.8091,0.3571
+derin2018,1D-CNN,3,ΦF (quantum yield),8,0.1219,0.1436,0.7262,0.7857
+derin2018,1D-CNN,3,log ε,8,0.0519,0.0696,-1.5322,-0.0238
+pooled_external,Transformer,3,Abs. λmax (nm),790,47.4618,59.8559,0.0014,0.694
+pooled_external,Transformer,3,Em. λmax (nm),790,45.1759,58.1455,0.198,0.6272
+pooled_external,Transformer,3,ΦF (quantum yield),748,0.3162,0.3841,-0.1622,0.1795
+pooled_external,Transformer,3,log ε,544,0.1977,0.2488,0.1529,0.5101
+derin2018,Transformer,3,Abs. λmax (nm),8,7.2199,9.1869,-14.7478,0.8916
+derin2018,Transformer,3,Em. λmax (nm),8,8.4603,10.0906,-2.711,0.8571
+derin2018,Transformer,3,ΦF (quantum yield),8,0.1645,0.2091,0.4196,0.5714
+derin2018,Transformer,3,log ε,8,0.0781,0.0935,-3.5698,-0.4286
+pooled_external,GATv2,3,Abs. λmax (nm),790,35.9646,45.0429,0.4345,0.6984
+pooled_external,GATv2,3,Em. λmax (nm),790,43.4386,56.0706,0.2542,0.6144
+pooled_external,GATv2,3,ΦF (quantum yield),748,0.3153,0.3692,-0.0739,0.1763
+pooled_external,GATv2,3,log ε,544,0.1913,0.2423,0.1964,0.4291
+derin2018,GATv2,3,Abs. λmax (nm),8,26.1597,27.9618,-144.8868,0.0482
+derin2018,GATv2,3,Em. λmax (nm),8,26.8508,30.1215,-32.0681,-0.119
+derin2018,GATv2,3,ΦF (quantum yield),8,0.1895,0.239,0.2416,0.3571
+derin2018,GATv2,3,log ε,8,0.0762,0.0877,-3.0281,0.2143
+pooled_external,MLP,4,Abs. λmax (nm),790,31.1543,41.2138,0.5266,0.7363
+pooled_external,MLP,4,Em. λmax (nm),790,35.9347,49.0604,0.4291,0.6833
+pooled_external,MLP,4,ΦF (quantum yield),748,0.2927,0.3421,0.0782,0.3616
+pooled_external,MLP,4,log ε,544,0.205,0.2537,0.119,0.4267
+derin2018,MLP,4,Abs. λmax (nm),8,7.5099,8.7126,-13.1639,0.3735
+derin2018,MLP,4,Em. λmax (nm),8,20.9673,25.6846,-23.0437,0.0238
+derin2018,MLP,4,ΦF (quantum yield),8,0.1809,0.2271,0.315,0.619
+derin2018,MLP,4,log ε,8,0.0737,0.0948,-3.6984,-0.2857
+pooled_external,1D-CNN,4,Abs. λmax (nm),790,36.8751,47.2286,0.3783,0.7478
+pooled_external,1D-CNN,4,Em. λmax (nm),790,44.8501,57.6097,0.2127,0.6428
+pooled_external,1D-CNN,4,ΦF (quantum yield),748,0.3329,0.3856,-0.1714,0.0642
+pooled_external,1D-CNN,4,log ε,544,0.1626,0.2105,0.3935,0.6275
+derin2018,1D-CNN,4,Abs. λmax (nm),8,4.809,7.2184,-8.7224,-0.0723
+derin2018,1D-CNN,4,Em. λmax (nm),8,12.3819,16.2232,-8.5924,-0.5238
+derin2018,1D-CNN,4,ΦF (quantum yield),8,0.1053,0.1455,0.7191,0.619
+derin2018,1D-CNN,4,log ε,8,0.0604,0.0887,-3.1186,0.2143
+pooled_external,Transformer,4,Abs. λmax (nm),790,49.6751,63.0765,-0.1089,0.6786
+pooled_external,Transformer,4,Em. λmax (nm),790,47.7007,60.4993,0.1318,0.5843
+pooled_external,Transformer,4,ΦF (quantum yield),748,0.3251,0.3891,-0.1925,0.1543
+pooled_external,Transformer,4,log ε,544,0.213,0.2877,-0.1327,0.5136
+derin2018,Transformer,4,Abs. λmax (nm),8,14.9202,19.6542,-71.0769,0.9157
+derin2018,Transformer,4,Em. λmax (nm),8,14.8641,19.5054,-12.8665,0.9524
+derin2018,Transformer,4,ΦF (quantum yield),8,0.1412,0.1893,0.5245,0.7381
+derin2018,Transformer,4,log ε,8,0.0774,0.092,-3.4246,-0.2619
+pooled_external,GATv2,4,Abs. λmax (nm),790,31.1466,41.4338,0.5215,0.711
+pooled_external,GATv2,4,Em. λmax (nm),790,37.4873,50.3664,0.3983,0.6208
+pooled_external,GATv2,4,ΦF (quantum yield),748,0.322,0.3722,-0.0914,0.1663
+pooled_external,GATv2,4,log ε,544,0.2174,0.2722,-0.014,0.1459
+derin2018,GATv2,4,Abs. λmax (nm),8,11.6733,14.0832,-36.0072,0.5181
+derin2018,GATv2,4,Em. λmax (nm),8,15.388,18.2225,-11.1023,0.5238
+derin2018,GATv2,4,ΦF (quantum yield),8,0.1447,0.174,0.5978,0.5714
+derin2018,GATv2,4,log ε,8,0.0605,0.0731,-1.7982,0.381

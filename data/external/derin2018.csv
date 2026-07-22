@@ -1,0 +1,9 @@
+id,Chromophore,Solvent,lambda_abs,lambda_em,QY,log_eps
+1A,C(CC)(=C2C=CC(C)=[N+]2[B-]3(F)F)C4=CC=C(C)N34,ClC(Cl)Cl,508,514,1.0,4.8325
+1B,C(CC)(=C2C=CC(CC)=[N+]2[B-]3(F)F)C4=CC=C(CC)N34,ClC(Cl)Cl,509,515,0.93,4.8633
+2A,C(c1ccccc1)(=C2C=CC(C)=[N+]2[B-]3(F)F)C4=CC=C(C)N34,ClC(Cl)Cl,512,525,0.36,4.7559
+2B,C(c1ccccc1)(=C2C=CC(CC)=[N+]2[B-]3(F)F)C4=CC=C(CC)N34,ClC(Cl)Cl,514,526,0.37,4.7634
+3A,C(c1ccc(OC)cc1)(=C2C=CC(C)=[N+]2[B-]3(F)F)C4=CC=C(C)N34,ClC(Cl)Cl,511,522,0.45,4.8513
+3B,C(c1ccc(OC)cc1)(=C2C=CC(CC)=[N+]2[B-]3(F)F)C4=CC=C(CC)N34,ClC(Cl)Cl,512,523,0.51,4.8451
+4A,C(c1ccc(Br)cc1)(=C2C=CC(C)=[N+]2[B-]3(F)F)C4=CC=C(C)N34,ClC(Cl)Cl,514,529,0.24,4.8195
+4B,C(c1ccc(Br)cc1)(=C2C=CC(CC)=[N+]2[B-]3(F)F)C4=CC=C(CC)N34,ClC(Cl)Cl,515,528,0.25,4.7482

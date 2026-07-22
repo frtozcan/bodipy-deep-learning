@@ -1,0 +1,81 @@
+seed,model,target,MAE,RMSE,Spearman_rho
+0,MLP,Abs. λmax (nm),13.6677,15.5589,0.4579
+0,MLP,Em. λmax (nm),14.7372,17.3352,0.0476
+0,MLP,ΦF (quantum yield),0.2708,0.3516,0.381
+0,MLP,log ε,0.0618,0.0763,0.0
+0,1D-CNN,Abs. λmax (nm),9.8167,10.74,0.5302
+0,1D-CNN,Em. λmax (nm),12.9116,16.2041,0.0238
+0,1D-CNN,ΦF (quantum yield),0.1563,0.2084,0.7143
+0,1D-CNN,log ε,0.0513,0.0588,0.3095
+0,Transformer,Abs. λmax (nm),10.1112,11.1353,0.8675
+0,Transformer,Em. λmax (nm),13.332,16.3736,0.7381
+0,Transformer,ΦF (quantum yield),0.1526,0.1736,0.2143
+0,Transformer,log ε,0.0629,0.073,-0.1429
+0,GATv2,Abs. λmax (nm),6.5671,7.6533,0.5181
+0,GATv2,Em. λmax (nm),15.8867,18.5006,0.381
+0,GATv2,ΦF (quantum yield),0.1706,0.2311,0.9524
+0,GATv2,log ε,0.0904,0.0953,0.8095
+1,MLP,Abs. λmax (nm),8.9731,11.2057,0.1687
+1,MLP,Em. λmax (nm),19.7131,23.4512,-0.0476
+1,MLP,ΦF (quantum yield),0.2479,0.3123,0.2857
+1,MLP,log ε,0.0468,0.0607,0.381
+1,1D-CNN,Abs. λmax (nm),4.8868,8.4498,0.0723
+1,1D-CNN,Em. λmax (nm),11.7272,13.3597,-0.0714
+1,1D-CNN,ΦF (quantum yield),0.1476,0.2001,0.8571
+1,1D-CNN,log ε,0.0501,0.0545,-0.3095
+1,Transformer,Abs. λmax (nm),10.9591,12.1036,0.8916
+1,Transformer,Em. λmax (nm),12.7382,14.5144,0.8571
+1,Transformer,ΦF (quantum yield),0.2068,0.2523,0.3571
+1,Transformer,log ε,0.1331,0.1577,0.2143
+1,GATv2,Abs. λmax (nm),13.5347,15.6418,0.5181
+1,GATv2,Em. λmax (nm),24.8034,27.7165,0.2381
+1,GATv2,ΦF (quantum yield),0.1377,0.1902,0.9286
+1,GATv2,log ε,0.025,0.0372,0.7619
+2,MLP,Abs. λmax (nm),6.434,7.0021,0.5784
+2,MLP,Em. λmax (nm),27.2742,30.1038,-0.0476
+2,MLP,ΦF (quantum yield),0.2422,0.3139,0.1667
+2,MLP,log ε,0.0852,0.1092,-0.6905
+2,1D-CNN,Abs. λmax (nm),9.9134,11.1121,0.7952
+2,1D-CNN,Em. λmax (nm),21.5622,22.9595,0.4762
+2,1D-CNN,ΦF (quantum yield),0.1413,0.1821,0.7143
+2,1D-CNN,log ε,0.0696,0.0844,-0.7143
+2,Transformer,Abs. λmax (nm),11.8363,13.7243,0.5061
+2,Transformer,Em. λmax (nm),11.8866,14.1171,0.5238
+2,Transformer,ΦF (quantum yield),0.1354,0.179,0.6667
+2,Transformer,log ε,0.0723,0.0923,0.3333
+2,GATv2,Abs. λmax (nm),11.5161,14.3779,-0.4338
+2,GATv2,Em. λmax (nm),21.8355,25.1754,-0.5476
+2,GATv2,ΦF (quantum yield),0.1338,0.1745,0.881
+2,GATv2,log ε,0.0756,0.0903,-0.2619
+3,MLP,Abs. λmax (nm),9.3644,10.6315,0.3012
+3,MLP,Em. λmax (nm),19.6656,22.8478,-0.1905
+3,MLP,ΦF (quantum yield),0.2122,0.2709,0.2857
+3,MLP,log ε,0.087,0.1151,-0.2619
+3,1D-CNN,Abs. λmax (nm),13.9641,15.6139,0.8314
+3,1D-CNN,Em. λmax (nm),14.8582,16.6926,0.2381
+3,1D-CNN,ΦF (quantum yield),0.1122,0.142,0.8571
+3,1D-CNN,log ε,0.0584,0.0719,-0.2619
+3,Transformer,Abs. λmax (nm),8.1878,9.8686,0.747
+3,Transformer,Em. λmax (nm),14.9629,15.7138,0.6667
+3,Transformer,ΦF (quantum yield),0.1788,0.2072,0.381
+3,Transformer,log ε,0.0618,0.0727,-0.381
+3,GATv2,Abs. λmax (nm),22.2093,22.8806,0.7711
+3,GATv2,Em. λmax (nm),32.7515,34.4122,0.3571
+3,GATv2,ΦF (quantum yield),0.2392,0.3223,0.4762
+3,GATv2,log ε,0.0298,0.0365,0.7381
+4,MLP,Abs. λmax (nm),9.3271,11.5541,0.3735
+4,MLP,Em. λmax (nm),22.0929,25.784,-0.0476
+4,MLP,ΦF (quantum yield),0.2305,0.2938,0.2143
+4,MLP,log ε,0.0654,0.0858,-0.3571
+4,1D-CNN,Abs. λmax (nm),8.3388,10.2617,0.3494
+4,1D-CNN,Em. λmax (nm),14.4785,18.2005,0.1905
+4,1D-CNN,ΦF (quantum yield),0.1167,0.1481,0.881
+4,1D-CNN,log ε,0.0615,0.0761,-0.1905
+4,Transformer,Abs. λmax (nm),6.1821,7.8271,0.9037
+4,Transformer,Em. λmax (nm),9.5331,12.0448,0.8571
+4,Transformer,ΦF (quantum yield),0.2665,0.2829,0.2857
+4,Transformer,log ε,0.1119,0.1413,0.1667
+4,GATv2,Abs. λmax (nm),13.4611,16.9611,-0.3856
+4,GATv2,Em. λmax (nm),25.6095,27.8083,-0.4048
+4,GATv2,ΦF (quantum yield),0.1288,0.1521,0.881
+4,GATv2,log ε,0.053,0.0625,0.1667

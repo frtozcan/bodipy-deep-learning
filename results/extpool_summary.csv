@@ -1,0 +1,33 @@
+set,model,target,MAE,R2,rho
+derin2018,1D-CNN,Abs. λmax (nm),7.197 ± 2.031,-18.539 ± 14.294,0.029 ± 0.455
+derin2018,1D-CNN,Em. λmax (nm),12.438 ± 3.342,-9.524 ± 6.125,-0.186 ± 0.451
+derin2018,1D-CNN,log ε,0.054 ± 0.010,-1.700 ± 1.202,0.205 ± 0.339
+derin2018,1D-CNN,ΦF (quantum yield),0.127 ± 0.026,0.658 ± 0.133,0.690 ± 0.127
+derin2018,GATv2,Abs. λmax (nm),15.879 ± 7.718,-69.953 ± 57.656,0.080 ± 0.369
+derin2018,GATv2,Em. λmax (nm),20.469 ± 6.510,-20.146 ± 12.870,0.010 ± 0.406
+derin2018,GATv2,log ε,0.072 ± 0.009,-3.116 ± 1.384,0.352 ± 0.306
+derin2018,GATv2,ΦF (quantum yield),0.168 ± 0.034,0.398 ± 0.246,0.452 ± 0.138
+derin2018,MLP,Abs. λmax (nm),8.118 ± 1.445,-17.395 ± 6.674,0.545 ± 0.138
+derin2018,MLP,Em. λmax (nm),20.203 ± 3.128,-20.036 ± 4.865,0.148 ± 0.125
+derin2018,MLP,log ε,0.073 ± 0.021,-3.119 ± 1.703,-0.067 ± 0.195
+derin2018,MLP,ΦF (quantum yield),0.179 ± 0.007,0.315 ± 0.056,0.524 ± 0.121
+derin2018,Transformer,Abs. λmax (nm),13.971 ± 4.791,-61.146 ± 36.911,0.930 ± 0.044
+derin2018,Transformer,Em. λmax (nm),16.302 ± 5.108,-14.273 ± 8.688,0.876 ± 0.062
+derin2018,Transformer,log ε,0.063 ± 0.014,-2.112 ± 1.276,-0.190 ± 0.368
+derin2018,Transformer,ΦF (quantum yield),0.164 ± 0.017,0.505 ± 0.067,0.471 ± 0.181
+pooled_external,1D-CNN,Abs. λmax (nm),35.222 ± 2.201,0.440 ± 0.074,0.749 ± 0.027
+pooled_external,1D-CNN,Em. λmax (nm),44.226 ± 2.075,0.248 ± 0.081,0.642 ± 0.025
+pooled_external,1D-CNN,log ε,0.173 ± 0.011,0.304 ± 0.082,0.607 ± 0.070
+pooled_external,1D-CNN,ΦF (quantum yield),0.338 ± 0.004,-0.197 ± 0.036,0.056 ± 0.038
+pooled_external,GATv2,Abs. λmax (nm),36.653 ± 3.558,0.342 ± 0.141,0.651 ± 0.076
+pooled_external,GATv2,Em. λmax (nm),43.343 ± 4.869,0.234 ± 0.166,0.601 ± 0.080
+pooled_external,GATv2,log ε,0.210 ± 0.013,0.035 ± 0.107,0.328 ± 0.154
+pooled_external,GATv2,ΦF (quantum yield),0.327 ± 0.011,-0.140 ± 0.057,0.075 ± 0.104
+pooled_external,MLP,Abs. λmax (nm),30.763 ± 0.698,0.563 ± 0.040,0.744 ± 0.017
+pooled_external,MLP,Em. λmax (nm),34.532 ± 1.249,0.496 ± 0.050,0.709 ± 0.023
+pooled_external,MLP,log ε,0.201 ± 0.005,0.149 ± 0.036,0.458 ± 0.037
+pooled_external,MLP,ΦF (quantum yield),0.298 ± 0.010,0.048 ± 0.051,0.335 ± 0.056
+pooled_external,Transformer,Abs. λmax (nm),46.418 ± 2.185,0.034 ± 0.098,0.671 ± 0.023
+pooled_external,Transformer,Em. λmax (nm),46.767 ± 1.921,0.141 ± 0.069,0.592 ± 0.041
+pooled_external,Transformer,log ε,0.188 ± 0.019,0.175 ± 0.194,0.535 ± 0.088
+pooled_external,Transformer,ΦF (quantum yield),0.322 ± 0.010,-0.166 ± 0.077,0.140 ± 0.044

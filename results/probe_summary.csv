@@ -1,0 +1,4 @@
+model,alkyl,EDG,neutral,EWG,F,Cl,Br,I,H1_alkyl>aryl,H2_EDG>Ph>EWG,H3_F>Cl>Br>I
+1D-CNN,0.642,0.292,0.374,0.207,0.297,0.287,0.214,0.199,True,False,True
+GATv2,0.584,0.331,0.319,0.258,0.304,0.24,0.213,0.08,True,True,True
+MLP,0.448,0.299,0.403,0.229,0.209,0.201,0.236,0.11,True,False,False
