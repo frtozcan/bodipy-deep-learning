@@ -8,7 +8,10 @@ data/processed/features.pkl
 results/*_log.txt
 results/*_err.txt
 
-# Eski / kopya taslak dosyalari (guncel olanlar manuscript/ icinde)
+# Makale (henuz gonderilmedi; depoya dahil edilmiyor)
+manuscript/
+
+# Eski / kopya taslak dosyalari
 MANUSCRIPT.md
 manuscript_draft.md
 paper/
@@ -35,3 +38,7 @@ Thumbs.db
 
 # Gecici Word kilit dosyalari
 ~$*.docx
+
+# Kok dizindeki basibos makale kopyasi
+/BODIPY_manuscript_humanized.docx
+*.docx
