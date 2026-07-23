@@ -1,4 +1,4 @@
-"""qy_bimodal.py - Hakem M2: bimodal ΦF icin modelleme stratejileri karsilastirmasi.
+"""qy_bimodal.py - Bimodal ΦF icin modelleme stratejileri karsilastirmasi.
 Dort varyant, ayni MLP govdesi, tek gorev (ΦF):
   A direct     : standartlastirilmis ΦF uzerinde MSE (mevcut yaklasim)
   B bounded    : sigmoid cikis, ham [0,1] uzerinde MSE

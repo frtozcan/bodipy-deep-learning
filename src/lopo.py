@@ -1,4 +1,4 @@
-"""lopo.py - Leave-One-Publication-Out harici dogrulama (hakem M1).
+"""lopo.py - Leave-One-Publication-Out harici dogrulama.
 Bir yayin tamamen disarida birakilir; o yayinin MOLEKULLERI (baska yayinlarda gecse bile)
 egitimden cikarilir. Hedef/tanimlayici standartlastirmasi HER KATMAN icin yeniden hesaplanir.
 Cikti: results/lopo_raw.csv, lopo_summary.csv, lopo_box.png

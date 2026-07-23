@@ -1,4 +1,4 @@
-"""external_pool.py - BUYUK harici dogrulama seti (hakem M1'e nihai cevap).
+"""external_pool.py - BUYUK harici dogrulama seti (yayin bazli holdout).
 12 bagimsiz yayindaki TUM BODIPY'ler + Derin 2018'in 8 bilesigi tek bir harici sette
 havuzlanir; model bunlarin HICBIRINI gormeden egitilir.
 Avantaj: (i) ~200+ molekul -> istatistiksel guc, (ii) genis spektral aralik -> R2 anlamli

@@ -1,4 +1,4 @@
-"""solvent_props.py - Fiziksel cozucu tanimlayicilari (hakem M3).
+"""solvent_props.py - Fiziksel cozucu tanimlayicilari.
 Sutunlar: dielektrik sabiti (eps_r), kirilma indisi (n_D), ET(30) polarite (kcal/mol),
 viskozite (eta, mPa.s), Kamlet-Taft pi*, alpha, beta.
 

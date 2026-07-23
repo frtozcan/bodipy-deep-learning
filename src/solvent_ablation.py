@@ -1,4 +1,4 @@
-"""solvent_ablation.py - Hakem M3: cozucu temsili ve entegrasyon mekanizmasi ablasyonu.
+"""solvent_ablation.py - Cozucu temsili ve entegrasyon mekanizmasi ablasyonu.
 Varyantlar (ayni MLP govdesi, cok gorevli, maskeli MSE):
   none     : cozucu girdisi YOK          (cozucu gercekten gerekli mi?)
   generic  : 10 RDKit tanimlayici, concat (MEVCUT yaklasim = temel)

@@ -1,7 +1,7 @@
 """ext_candidates.py - Harici set genisletme icin aday analizi.
 Deep4Chem'deki BODIPY kayitlarini KAYNAK YAYIN (Reference DOI) bazinda gruplar.
 Amac: rastgele bolme yerine "yayin bazinda disarida birakma" ile 20-30+ bilesikli,
-gercekten bagimsiz bir harici dogrulama seti kurmak (hakem 1. madde).
+gercekten bagimsiz bir harici dogrulama seti kurmak.
 Calistir: python src/ext_candidates.py
 """
 import os, sys
