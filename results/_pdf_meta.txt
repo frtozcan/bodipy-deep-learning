@@ -1,0 +1,595 @@
+﻿
+==========================================================================================
+DOSYA: 1-s2.0-S0040402006004480-main.pdf
+------------------------------------------------------------------------------------------
+[meta baslik] doi:10.1016/j.tet.2006.03.036
+Synthesis of 8-heteroatom-substituted 4,4-di´¼éuoro-4-bora-3a,
+4a-diaza-s-indacene dyes (BODIPY)
+Thirumani Venkateshwar Goud, Ahmet Tutary and Jean-Franc┬©ois Biellmann*
+Institute of Chemistry, Academia Sinica, Taipei 115, Taiwan
+Received 15 December 2005; revised 10 March 2006; accepted 13 March 2006
+Available online 17 April 2006
+AbstractÔÇöThioketones, bis-(5-R-1 H-pyrrol-2-yl)-methanethiones (R┬╝H, Me, Et), 4 react with methyl iodide or isopropyl tri´¼éate to give the
+pyrrolium salts, which are treated with tertiary amine and boron tri´¼éuoride to produce the 8-(thiomethyl/thioisopropyl) 4,4-di´¼éuoro-3,5-di-R-
+4-bora-3a,4a-diaza-s-indacenes 6aÔÇô6c and 8aÔÇô8c. The reaction of the methyl thioether group of 6a and 6b with aniline gives the substitution
+products whose structure corresponds to formula 10. The structures of the thioethers 6aÔÇô6c and compound 10a were determined by X-ray
+diffraction. The thiomethyl groups in 6aÔÇô6c are close to be coplanar to the ´¼éat ring system, the strain due to the interaction of methyl
+with the hydrogen at C1 is released by shifting of the sulfur atom away from carbon C1 and opening of the angle C8ÔÇô S-methyl. This copla-
+narity of the thiomethyl group with ring system agrees with the preference of thesyn conformation of methyl vinyl thioether. In the structures
+of the aniline compound 10a the length of the nitrogen to C8 is close to that of N]C double bond. Thioethers 6aÔÇô6c show high wavelength
+absorption at 523ÔÇô530 nm and ´¼éuorescence with a Stokes shift of 12ÔÇô24 nm and with a quantum yield of 0.15ÔÇô0.37. In contrast the aniline
+substituted compounds 10a and 10b showed absorption at 410 and 430 nm, respectively, with no ´¼éuorescence. According to their spectral
+properties they are better described by structure 10 than 7.
+/C2112006 Elsevier Ltd. All rights reserved.
+1. Introduction
+In recent years, the search for selective and sensitive ´¼éuo-
+rescent probes for metal ions has tremendously gained an
+importance. The development of functional group molecules
+capable of performing chemically and/or physically con-
+trolled actions and reporting on or transducing these through
+luminescence signal has attracted considerable attention.
+Examples of functional supramolecular systems communi-
+cating through the luminescence include molecular scale
+sensors,
+1 switches,2 motors and machines,3 wires or arrays,4
+cascades and cassettes that operate through energy or elec-
+tron transfer process. Herein, we report the synthesis of
+sulfur containing BODIPY (4,4-di´¼éuoro-4-bora-3a,4a-diaza-
+s-indacene) compounds under mild reaction conditions in
+good to reasonable yield. The high wavelength absorption
+at 523ÔÇô530 nm and the ´¼éuorescence with a Stokes shift of
+
+==========================================================================================
+DOSYA: 1-s2.0-S0040402011018254-main.pdf
+------------------------------------------------------------------------------------------
+Synthesis and functionalization of new polyhalogenated BODIPY dyes. Study
+of their photophysical properties and singlet oxygen generation
+Maria J. Ortiz a, *, Antonia R. Agarrabeitia a, Gonzalo Duran-Sampedro a, Jorge Ba ~nuelos Prieto b,
+Teresa Arbeloa Lopez b, Walter A. Massad c, Hern /C19an A. Montejano c, Norman A. Garc├¡a c,
+I~nigo Lopez Arbeloa b
+a Departamento de Qu├¡mica Org /C19anica I, Facultad de Ciencias Qu├¡micas, Universidad Complutense, 28040 Madrid, Spain
+b Departamento de Qu├¡mica F├¡sica, UPV-EHU, Apartado 644, 48080 Bilbao, Spain
+c Departamento de Qu├¡mica, Universidad Nacional de R├¡o Cuarto, 5800 R├¡o Cuarto, Argentina
+article info
+Article history:
+Received 8 September 201 1
+Received in revised form 7 November 201 1
+Accepted 23 November 201 1
+Available online 28 November 201 1
+Keywords:
+Polyiodinated BODIPYs
+Electrophilic substitution reactions
+Nucleophilic substitution reactions
+Cross-coupling
+Singlet oxygen generation
+abstract
+A theoretical and experimental study on the iodination of BODIPY dyes with different degrees of sub-
+stitution has been developed. Polyhalogenated BODIPYs synthesized in this work are the ´¼ürst examples
+of this type of dyes with more than two halogen atoms in the BODIPY core and they can be selectively
+functionalized. Surprisingly, the position in which halogen is attached has a marked effect in the pho-
+tophysical properties and modulates the ´¼éuorescence capacity of the resulting BODIPY. These iodinated
+BODIPYs are ef ´¼ücient singlet oxygen generators.
+/C211201 1 Elsevier Ltd. All rights reserved.
+1. Introduction
+Along the last years the number of contributions in the literature
+about 4,4-di ´¼éuoro-4-bora-3a,4a-diaza-s-indacene (BODIPY) dyes
+has increased exponentially, due to their advantageous photo-
+physical properties, such as a high ´¼éuorescence quantum yield, low
+tripletetriplet absorption, and high photostability. 1 In addition,
+these dyes present a high number of applications. 2 The contribu-
+
+==========================================================================================
+DOSYA: 1-s2.0-S0277538702012263-main.pdf
+------------------------------------------------------------------------------------------
+[meta baslik] PII: S0277-5387(02)01226-3
+Synthesis, electrochemical and photochemical properties of
+unsymmetrically substituted zinc phthalocyanine complexes
+Pulane Matlaba, Tebello Nyokong *
+Department of Chemistry, Rhodes Uni versity, Grahamstown 6140, South Africa
+Received 26 April 2002; accepted 30 August 2002
+Abstract
+The synthesis of symmetrically and unsymmetrically substituted zinc phthalocyanine (ZnPc) deri vatives are reported. The ZnPc
+derivatives are synthesized by ring expansion of subphthalocyanine complexes. Ring substitution is effected with tert-butyl phenol,
+naphthol and hydroxybenzoic acid. Comparison of the redox potentials for complexes substituted with varying numbers of tert-
+butyl phenol: 1 (complex 5), 2 (complex 6), 3 (complex 7), 6 (complex 8) and 8 (complex 9) shows that the complexes with the highest
+number of substituents are more difficult to oxidize and easier to reduce. All the reported complexes are relati vely photostable, with
+photobleaching quantum yields of the order of 10 /C285. Singlet oxygen quantum yields for the complexes ranged from 0.22 to 0.68.
+# 2002 Elsevier Science Ltd. All rights reserved.
+Keywords: Zinc phthalocyanine; Sensitizer; Singlet oxygen; Photobleaching
+1. Introduction
+Phthalocyanines are an interesting class of com-
+pounds with increasingly di verse industrial and biome-
+dical applications including photosensitization [1], linear
+optics [2], catalysis [3], liquid crystals [4], and gas sensing
+[5]. Specificity in the applications of phthalocyanines
+can be introduced by modification of the phthalocya-
+nine ring or changes in the central metal. Remarkable
+progress has been made in recent years in the use of
+phthalocyanine deri vatives as sensitizers for photody-
+namic therapy (PDT) of cancer [6,7]. Zinc phthalocya-
+nine complexes ha ve good photosensitizing properties
+for PDT [8 /C1
+/10]. Sulfonated or carboxy zinc phthalo-
+cyanine complexes are water-soluble but form aggre-
+gates in solution [11 /C1/13]. Aggregation diminishes the
+photosensitizing ability of metallophthalocyanine (MPc)
+complexes. Amphiphilic unsymmetrically substituted
+phthalocyanines have been shown to ha ve cell penetrat-
+ing powers [14].
+The major limitation of phthalocyanines for use in
+
+==========================================================================================
+DOSYA: 1-s2.0-S0927024809004590-main.pdf
+------------------------------------------------------------------------------------------
+[meta baslik] Effect of carbonitrile and hexyloxy substituents on alternated copolymer of polythiopheneÔÇôPerformances in photovoltaic cells
+Review
+Effect of carbonitrile and hexyloxy substituents on alternated copolymer of
+polythiopheneÔÇôPerformances in photovoltaic cells
+Solenn Berson a,b, Samy Cecioni a, Martial Billon a,n, Yann Kervella a,R e┬┤ mi de Bettignies b,
+Se┬┤ verine Bailly b, Ste┬┤ phane Guillerez b,nn
+a Institut Nanosciences et Cryoge┬┤nie, Structures et Proprie┬┤te┬┤s dÔÇÖArchitectures Mole┬┤culaires, CEA-INAC/SPrAM/LEMOH UMR 5819 CEA/CNRS/UJF,
+17 rue des Martyrs 38054 Grenoble Cedex 09, France
+b Institut National de lÔÇÖEnergie Solaire, INES-RDI - Laboratoire des Composants Solaires, CEA-DRT/LITEN/DTS/LCS, 50 avenue du Lac Le ┬┤man BP 332, 73377 Le Bourget du Lac, France
+article info
+Article history:
+Received 2 September 2009
+Received in revised form
+18 December 2009
+Accepted 25 December 2009
+Available online 22 January 2010
+Keywords:
+Polythiophene
+Photovoltaic
+Organic solar cell
+abstract
+A novel series of regioregular bithiophene disubstituted with a carbonitrile group as electron acceptor
+and a hexyl or hexyloxy chain as electron donor, have been synthesized. The position and the
+regioregularity of substituents on bithiophene have been controlled via a head-to-head (HH) or head-
+to-tail (HT) coupling reaction to give four monomers: the HH and the HT carbonitrilehexylbithiophene
+monomers and the HH and the HT carbonitrilehexyloxybithiophene monomers. Each of them lead, by
+chemical polymerization, to four polymers constituted by a polythiophene backbone containing
+alternating electron-donating and electron-withdrawing units directly connected to the polythiophene.
+Optical and electrochemical characterizations reveal that all these polymers have a low band gap and
+absorb at longer wavelengths in comparison with a poly(3-hexylthiophene) (P3HT) ´¼ülm. The planarity
+of the polythiophene backbone was increased by introduction of sulphurÔÇôoxygen (SÔÇôO) interactions
+between hexyloxy chains and thiophene units. In addition, the introduction of carbonitrile groups
+allows to stabilize the LUMO and the HOMO energy levels of polymers at around /C03.10 eV for the
+LUMO and /C05.0/ /C05.3 eV for the HOMO, which were lower than the ones of P3HT ( /C02.19 eV for the
+LUMO and /C24/C04.9 eV for the HOMO). Bulk heterojunction photovoltaic devices were fabricated using
+blends of these polymers with PCBM ([6,6]-phenyl-C61-butyric acid methyl ester). Power conversion
+
+==========================================================================================
+DOSYA: 1-s2.0-S1010603017305208-main.pdf
+------------------------------------------------------------------------------------------
+Invited paper
+Synthesis of non-peripheral thioanisole-substituted phthalocyanines:
+Photophysical, electrochemical, photovoltaic, and sensing properties
+Arma/C21gan G├╝nsel, Emre G├╝zel, Ahmet T. Bilgi├ğli, _Ilkay ┼Şi┼şman, M. Nil├╝fer Yarasir*
+Department of Chemistry, Sakarya University, TR54187, Serdivan, Sakarya, Turkey
+A R T I C L E I N F O
+Article history:
+Received 17 April 2017
+Received in revised form 6 July 2017
+Accepted 29 July 2017
+Available online 12 August 2017
+Keywords:
+Phthalocyanine
+Synthesis
+Electrochemistry
+Photovoltaic
+Sensor
+Fluorescence
+H-
+and J-Aggregation
+A B S T R A C T
+This work reports on the synthesis, characterization, photophysical, electrochemical, photovoltaic and
+sensing properties of non-peripherally tetra 4-(methylthio)phenoxy substituted metal-free (2), Zn(II) (3)
+and Co(II) (4) phthalocyanine derivatives. Con´¼ürmation of the synthesized phthalocyanine structures
+which have the good solubility in organic solvents, performed with a combination of elemental analysis,
+FTIR, 1H NMR, 13C NMR, UVÔÇô vis and MALDI-MS spectral data. Electrochemical measurements exhibit that
+the complex (4) shows the redox reactions taking place on both metal center and the ring while the
+phthalocyanines (2) and (3) give only ring-based redox reactions. All the complexes were examined for
+utilization in dye-sensitized solar cells (DSSCs) in the presence of chenodeoxycholic acid and the highest
+power conversion ef´¼üciency was achieved for the complex (3), as 1.09%. The interaction of
+phthalocyanines (2) and (3) with Ag+ and Pd2+ ions and their aggregation properties (H- or J-
+Aggregation) were investigated by UVÔÇô vis spectroscopy. Photophysical (´¼éuorescence quantum yield)
+properties of the complexes (2) and (3) were reported in different solvents, such as tetrahydrofuran (THF)
+and dimethyl sulfoxide (DMSO). The results of spectral measurements in these solvents showed that FF
+value of the complexes (2) and (3) were found to be lower than the unsubstituted ZnPc.
+
+==========================================================================================
+DOSYA: Angew Chem Int Ed - 2008 - Ulrich - The Chemistry of Fluorescent Bodipy Dyes  Versatility Unsurpassed.pdf
+------------------------------------------------------------------------------------------
+[meta baslik] The Chemistry of Fluorescent Bodipy Dyes: Versatility Unsurpassed
+Fluorescent Molecular Devices
+DOI: 10.1002/anie.200702070
+The Chemistry of Fluorescent Bodipy Dyes: Versatility
+Unsurpassed**
+Gilles Ulrich, Raymond Ziessel,* and Anthony Harriman
+In memory of Charles MioskowskiBodipy ┬À dyes/pigments ┬À energy transfer ┬À
+fluorescent probes ┬À luminescence
+1.Introduction
+Despite existing for almost a century, fluorescent dyes
+continue to attract the attention of scientists from an ever-
+expanding multidisciplinary arena. Recent developments in
+the field of personal diagnostics and in the area of organic
+electroluminescent devices have boosted interest in the
+development of next-generation emissive dyes. Countless
+classes of highly fluorescent organic compounds are now
+known, but the difluoro-boraindacene family (4,4-difluoro-4-
+borata-3a-azonia-4a-aza-s-indacene, abbreviated hereafter as
+F-Bodipy) has gained recognition as being one of the more
+versatile fluorophores and this dye has steadily increased in
+popularityoverthepasttwodecades.Thefirstmemberofthis
+class of compound was reported by Treibs and Kreuzer in
+1968,
+[1] although relatively little attention was given to the
+discovery until the end of the 1980s.[2] Then, the potential use
+ofthisdyeforbiologicallabelingwasrecognized [3] andseveral
+new Bodipy[4]-based dyes were designed and indeed commer-
+cialized for biological labeling. As a
+consequence, Bodipy came to be
+known to the biochemist and biologist
+as a photostable substitute for fluores-
+cein, and the number of papers and
+patents started to escalate in the mid
+1990s (Figure 1). The use of Bodipy as an effective biological
+label has been complemented by its known propensity to
+function as a tunable laser dye.
+
+==========================================================================================
+DOSYA: Angew Chem Int Ed - 2011 - Cakmak - Designing Excited States  TheoryÔÇÉGuided Access to Efficient Photosensitizers for.pdf
+------------------------------------------------------------------------------------------
+[meta baslik] Designing Excited States: TheoryÔÇÉGuided Access to Efficient Photosensitizers for Photodynamic Action
+Photosensitizers
+DOI: 10.1002/anie.201105736
+Designing Excited States: Theory-Guided Access to Efficient
+Photosensitizers for Photodynamic Action**
+Yusuf Cakmak, Safacan Kolemen, Selin Duman, Yavuz Dede, Yusuf Dolen, Bilal Kilic,
+Ziya Kostereli, Leyla Tatar Yildirim, A. Lale Dogan, Dicle Guc, and Engin U. Akkaya*
+Photodynamic therapy (PDT) is a treatment modality for
+certain malignant (skin, head and neck, gastrointestinal,
+gynecological cancers), premalignant (actinic keratosis), and
+nonmalignant (psoriasis) indications.
+[1] Broader acceptance
+by the medical community and applicability is hampered, at
+least in part, by the less than optimal photophysical character-
+istics of the porphyrin derivatives. This situation sparked a
+worldwide search for novel sensitizers leading to new com-
+pounds, some holding more promise than others.
+[2ÔÇô4] The
+primary cytotoxic agent involved in the photodynamic action
+is singlet oxygen (
+1Dg), the efficient generation of which is
+linked invariably to the intersystem crossing (ISC) efficiency
+of the excited sensitizer. Most organic dyes have low triplet
+quantum yields, and in many recent candidates for photo-
+dynamic sensitizers, heavy atoms are incorporated into the
+structure as a strategy to improve spinÔÇôorbit coupling leading
+to facilitated intersystem crossing.
+[5, 6] While this approach
+seems fail-safe, incorporation of heavy atoms such as
+bromine, iodine, selenium, and certain lanthanides very
+often leads to increased ÔÇ£dark toxicityÔÇØ.
+[7] Unlike traditional
+chemotherapy agents, in principle, photodynamic therapy
+sensitizers themselves can be nontoxic, either at cellular or
+organ levels, even at relatively high concentrations. We have
+been interested in trying to find alternative ways of achieving
+
+==========================================================================================
+DOSYA: Chemistry A European J - 2012 - Niu - WaterÔÇÉSoluble RedÔÇÉEmitting DistyrylÔÇÉBorondipyrromethene  BODIPY  Dyes for Biolabeling.pdf
+------------------------------------------------------------------------------------------
+[meta baslik] WaterÔÇÉSoluble RedÔÇÉEmitting DistyrylÔÇÉBorondipyrromethene (BODIPY) Dyes for Biolabeling
+DOI: 10.1002/chem.201103613
+Water-Soluble Red-Emitting Distyryl-Borondipyrromethene (BODIPY)
+Dyes for Biolabeling
+Song-lin Niu, [a] C/C216drik Massif,[b] Gilles Ulrich, [a] Pierre-Yves Renard, [b, c, d]
+Anthony Romieu,* [b, c] and Raymond Ziessel* [a]
+Introduction
+The red to near-IR absorbing window of biological tissues is
+typically in the 600ÔÇô900 nm range. In this optical window,
+the scattering and absorption of light by biological samples
+and the background signal from cellular autofluorescence
+(300ÔÇô550 nm) are dramatically reduced.
+[1] Thus, red-absorb-
+ing and emitting fluorophores tend to offer the best resolu-
+tion and greatest contrast in biological labeling experiments
+and the detection of various (bio)analytes either in vitro or
+in vivo. In this context, the engineering and study of red-
+emitting dyes are of great interest and applicability.
+[2] Sever-
+al criteria, such as high fluorescence quantum yields ( f)
+under physiological conditions, high absorption coefficients
+(e), relatively long lifetimes (1ÔÇô5 ns), high photostability,
+good water-solubility, and the presence of an additional
+functional group for bioconjugation, have, however, to be
+met.
+[3] This is a formidable challenge and only a limited
+number of such labels belonging to the family of cyanine or
+rhodamine dyes are currently commercially available. [4, 5, 6]
+Recently, a new class of water-soluble red-emitting carbo-
+pyronines displaying very attractive spectroscopic features
+has also been studied.
+[6d]
+Unlike that of such fluorescent markers, the synthesis of
+water-soluble and bioconjugable red-emitting borondipyrro-
+methene dye (BODIPY) derivatives has been little studied,
+despite their promising photophysical properties. [7] In 2006,
+
+==========================================================================================
+DOSYA: Chemistry A European J - 2014 - Shin - Photodynamics of  26 ÔÇÉ and  28 Hexaphyrin Bodipy Hybrids.pdf
+------------------------------------------------------------------------------------------
+[meta baslik] Photodynamics of [26]ÔÇÉ and [28]HexaphyrinÔÇôBodipy Hybrids
+& Photochemistry
+Photodynamics of [26]- and [28]HexaphyrinÔÇôBodipy Hybrids
+Ji-Young Shin,*[a, c] Kilsuk Kim, [b] Jong Min Lim, [b] T akayuki T anaka,[d] Dongho Kim,* [b]
+Kimoon Kim,* [c] Hiroshi Shinokubo, [a] and Atsuhiro Osuka [d]
+Chem. Eur. J. 2014, 20, 4574 ÔÇô 4582
+/C23 2014 Wiley-VCH Verlag GmbH & Co. KGaA, Weinheim4574
+Full PaperDOI: 10.1002/chem.201400315
+
+==========================================================================================
+DOSYA: Kamlet_JOC_1983.pdf
+------------------------------------------------------------------------------------------
+J. Org. Chem. 1983,48, 2877-2887 2877
+Linear Solvation Energy Relationships. 23. A Comprehensive Collection of
+the Solvatochromic Parameters, T*, a, and 0, and Some Methods for
+Simplifying the Generalized Solvatochromic Equation
+Mortimer J. Kamlet,* Jos6-Luis M. Abboud,* Michael H. Abraham,* and R. W. Taft*
+Naval Surface Weapons Center, White Oak Laboratory, Silver Spring, Maryland 20910, Dgpartement de
+Chimie, Universitt? Cadi Ayyad, Marrakech, Morocco, Department of Chemistry, University of Surrey,
+Guildford, Surrey GU2 5XH, England, and Department of Chemistry, University of California,
+Irvine, California 9271 7
+Received November 5, 1982
+The solvatochromic parameters are intended for use in linear solvation energy relationships (or, in the case
+of solute/solute interactions, linear complexation energy relationships) of the generalized form XYZ = XYZ,
++ S(K* + db) + aa + bo + hb~ + et. This equation may be reduced to a more manageable form by a judicious
+choice of solvents and reactants or indicators. One-, two-, and three-parameter correlations involving different
+combinations of the above parameters and various types of physicochemical properties are demonstrated. A
+comprehensive and up-to-date collection of T*, a, and @ values is presented.
+The present paper demonstrates how the soluatochromic
+comparison method may be used to unravel, quantify,
+correlate and rationalize multiple interacting solvent effects
+on many types of physicochemical properties and reactivity
+parameters. A further purpose is to assemble in one
+convenient reference an up-to-date (as of Feb 1983) and
+comprehensive collection of the solvatochromic parameters
+T*, a, and @. The x* scale is an index of solvent dipo-
+larity/polarizability, which measures the ability of the
+solvent to stabilize a charge or a dipole by virtue of its
+dielectric effect.'-4 Values of x* for "select solvents",
+nonchlorinated nonprotonic aliphatic solvents with a single
+dominant bond dipole, have been shown to be generally
+proportional to molecular dipole  moment^.^ The a scale
+of solvent HBD (hydrogen-bond donor) acidities describes
+the ability of the solvent to donate a proton in a sol-
+vent-to-solute hydrogen  bond.'^"' The @ scale of HBA
+(hydrogen-bond acceptor) basicities provides a measure
+of the solvent's ability to accept a proton (donate an
+
+==========================================================================================
+DOSYA: Review of Progress in Coloration and Related Topics - June 1993 - Christie - Fluorescent dyes.pdf
+------------------------------------------------------------------------------------------
+[meta baslik] Fluorescent dyes
+
+==========================================================================================
+DOSYA: a-survey-of-hammett-substituent-constants-and-resonance-and-field-parameters.pdf
+------------------------------------------------------------------------------------------
+[meta baslik] A survey of Hammett substituent constants and resonance and field parameters
+Chem. Rev. 1991, 91, 165-195 16S
+A Survey of Hammett SubstituentConstantsand Resonanceand Field
+Parameters
+CORWIN HANSCH,*'* A. LEO,*and R. W. TAFT*
+Department of Chemistry, Pomona College, Claremont, California 91711 and Department of Chemistry, University of California, Irvine,
+Irvine, California 92717
+Received August 9, 1990 (RevisedManuscript Received December 17, 1990)
+Contents
+I. Introduction 165
+A. Field/Inductive Parameters 166
+B. Resonance Effect Parameters 177
+C. R+ and R- Values 187
+0. Resonance Effect <rRValues from NMR 188
+Chemical Shifts of Para-Substituted
+FluorobenzenesRelative to Their Meta
+Isomers as Internal References
+E. Calculated <rm and <rpValues and 190
+Shortcomings
+II. Discussion 191
+III. References 192
+I. Introduction
+The Hammett equation (and its extendedforms) has
+been one of the most widely used meansfor the study
+and interpretation of organic reactions and their
+mechanisms. Although the Hammett methodology has
+been criticized by theoreticians becauseof its empirical
+foundation, it is astonishing that a constants,obtained
+simply from the ionization of organic acids in solution,
+can frequently predict successfullyequilibrium and rate
+constants for a variety of families of reactions in solu-
+tion. Almost every kind of organic reaction has been
+treated via the Hammett equation, or its extendedform.
+The literature is sovoluminous and extensivethat there
+is no completereview of all that hasbeenaccomplished.
+HammettÔÇÖssuccessin treating the electronic effect
+
+==========================================================================================
+DOSYA: bodipys-for-dye-sensitized-solar-cells.pdf
+------------------------------------------------------------------------------------------
+[meta baslik] BODIPYs for Dye-Sensitized Solar Cells
+BODIPYs for Dye-Sensitized Solar Cells
+Hafsah Klfout, Adam Stewart, Mahmoud Elkhalifa, and Hongshan He *
+Department of Chemistry and Biochemistry, Eastern Illinois University, Charleston, Illinois 61920, United States
+ABSTRACT: BODIPY, abbreviation of boron-dipyrrome-
+thene, is one class of robust organic molecules that has been
+used widely in bioimaging, sensing, and logic gate design.
+Recently, BODIPY dyes have been explored for dye-sensitized
+solar cells (DSCs). Studies demonstrate their potential as light
+absorbers for the conversion of solar energy to electricity.
+However, their photovoltaic performance is inferior to many
+other dyes, including porphyrin dyes. In this review, several
+synthetic strategies of BODIPY dyes for DSCs and their
+further functionalization are described. The photophysical
+properties of dye molecules and their photovoltaic perform-
+ances in DSCs are summarized. We aim to provide readers a clear picture of the ´¼üeld and expect to shed light on the next
+generation of BODIPY dyes for their applications in solar energy conversion.
+KEYWORDS: BODIPY, solar cell, photovoltaics, synthesis, energy conversion
+1. INTRODUCTION
+Dye-sensitized solar cells (DSCs) have been extensively
+explored as an alternative photovoltaic technology. 1 The
+state-of-the-art DSCs inherit a con ´¼üguration, reported early
+by Gra ╠êtzel,2 in which a randomly packed and interconnected
+dye-coated titanium dioxide nanoparticle electrode, a platinum-
+coated counter-electrode, and a redox couple solution are
+ÔÇ£sandwichedÔÇØ. In the device, the foremost steps are the light
+absorption by dye molecules and subsequent charge separation
+at the interfaces between the dye molecules and the TiO
+2
+semiconductor. While the extensively studied ruthenium-based
+dyes showed promise, the limited supply and potential
+environmental impact of this heavy metal ion led to the search
+for other alternatives. 3ÔêÆ5 In 2014, the power conversion
+e´¼âciency (PCE) of 13% was achieved when a porphyrin dye
+was employed. 1,6 In 2015, Hanaya and coworkers reported a
+14.7% energy conversion e ´¼âciency when an alkoxysilyl-anchor
+
+==========================================================================================
+DOSYA: c1pp00001b.pdf
+------------------------------------------------------------------------------------------
+Photochemical &
+Photobiological Sciences
+www.rsc.org/pps PAPER
+Modulation of the spectroscopic property of Bodipy derivates through tuning
+the molecular con´¼ügurationÔÇá
+Yuting Chen,a,b,c Liang Wan,b Daopeng Zhang,b Yongzhong Bianb and Jianzhuang Jiang*a,b
+Received 1st January 2011, Accepted 16th February 2011
+DOI: 10.1039/c1pp00001b
+A series of six Bodipy derivatives, namely
+4,4-di´¼éuoro-8-(4-amidophenyl)-1,3,5,7-tetramethyl-4-bora-3a,4a-diaza-s-indacene (1),
+4,4-di´¼éuoro-8-(4-methylphenyl)-1,3,5,7-tetramethyl-4-bora-3a,4a-diaza-s-indacene (2),
+4,4-di´¼éuoro-8-(4-nitrylphenyl)-1,3,5,7-tetramethyl-4-bora-3a,4a-diaza-s-indacene (3),
+4,4-di´¼éuoro-8-(4-amidophenyl)-3,5-dimethyl-4-bora-3a,4a-diaza-s-indacene (4),
+4,4-di´¼éuoro-8-(4-methylphenyl)-3,5-dimethyl-4-bora-3a,4a-diaza-s-indacene (5), and
+4,4-di´¼éuoro-8-(4-nitrylphenyl)-3,5-dimethyl-4-bora-3a,4a-diaza-s-indacene (6) were structurally
+characterized by single crystal X-ray diffraction analysis. Two methyl substituents attached at C-1 and
+C-7 positions of boron-dipyrromethene (Bodipy) moiety in compounds 1ÔÇô3 were revealed to prevent
+the free rotation of the benzene moiety, resulting in a molecular con´¼üguration with an almost
+orthogonal dihedral angle between the Bodipy and benzene moieties with the dihedral angle in the
+range of 81.14ÔÇô88.56
+ÔùĞ. This is obviously different from that for4ÔÇô6 with a free-rotating benzene moiety
+relative to the Bodipy core due to the lack of two methyl substituents in the latter series of compounds,
+leading to an enhanced interaction between the Bodipy and benzene moieties for 4ÔÇô6 in comparison
+with 1ÔÇô3. The resulting larger HOMOÔÇôLUMO gap for1ÔÇô3 than 4ÔÇô6 results in a blue-shifted absorption
+band for 1ÔÇô3 relative to that for4ÔÇô6. Comparative studies over their ´¼éuorescence properties also disclose
+the blue-shifted ´¼éuorescence emission band and corresponding higher ´¼éuorescence quantum yield for
+1ÔÇô3 relative to those of 4ÔÇô6, revealing the effect of molecular con´¼üguration on the spectroscopic
+properties of Bodipy derivatives. Comparison of the redox behaviors of these two series of Bodipy
+compounds provides additional support for this point. In addition, the electron-donating/withdrawing
+property of the para substituent of the benzene moiety was shown to exhibit a slight in´¼éuence on the
+electronic absorption and ´¼éuorescence emission properties of the Bodipy compounds.
+Introduction
+Since their ´¼ürst discovery by Treibs and Kreuzer in 1968, 1 4,4-
+di´¼éuoro-4-bora-3a,4a-diaza-s-indacenes (Bodipys) have been an
+important class of ´¼éuorophores with extensive applications in
+
+==========================================================================================
+DOSYA: d4cp02471k1_suppl.pdf
+------------------------------------------------------------------------------------------
+S1
+Supporting Information for
+Predicting Fluorescence to Singlet Oxygen Generation Quantum Yield
+Ratio for BODIPY Dyes Using QSPR and Machine Learning
+Platon P. Chebotaev,a Andrey A. Buglak,a,b* Aimee Sheehan,c Mikhail A. Filatovc*
+a Faculty of Physics, Saint-Petersburg State University, Universiteteskaya Emb. 7-9, 199034 St. Petersburg, Russia. E-mail:
+andreybuglak@gmail.com
+b Institute of Physics, Kazan Federal University, 18 Kremlyovskaya street, 420008, Kazan, Russia
+c School of Chemical and Biopharmaceutical Sciences, Technological University Dublin, City Campus, Grangegorman, Dublin 7,
+Ireland. E-mail: mikhail.filatov@tudublin.ie
+Supplementary
+Information
+(SI)
+for
+Physical
+Chemistry
+Chemical
+Physics.
+This journal is ┬® the Owner Societies 2024
+
+==========================================================================================
+DOSYA: novel-meso-polyarylamine-bodipy-hybrids-synthesis-and-study-of-their-optical-properties.pdf
+------------------------------------------------------------------------------------------
+Novel meso-Polyarylamine-BODIPY Hybrids: Synthesis and Study
+of Their Optical Properties
+Erik Lager,ÔÇá Jianzhao Liu,┬ğ Ange┬┤lica Aguilar-Aguilar, ÔÇá Ben Zhong Tang,* ,┬ğ and
+Eduardo Pen╦£a-Cabrera*,ÔÇá
+Departamento de Qu─▒┬┤mica, Uni Versidad de Guanajuato, Col. Noria Alta S/N, Guanajuato,
+Gto. 36050 Mexico, and Department of Chemistry, The Hong Kong Uni Versity of Science & Technology,
+Clear Water Bay, Kowloon, Hong Kong, China
+eduardop@quijote.ugto.mx; tangbenz@ust.hk
+ReceiVed No Vember 11, 2008
+A series of 14 meso-polyarylamine-BODIPY (borondipyrromethene) hybrids of the general structure A
+were synthesized. Two methods were used to prepare them. The ´¼ürst protocol involved a direct
+Liebeskind-Srogl cross-coupling of thiomethylbodipys 1-2 with arylaminoboronic acids (4 examples,
+75-98%). The second method involves a two-step sequence: a Liebeskind -Srogl reaction to prepare 6
+meso-bromoarylbodipys (58-83%) followed by a Suzuki coupling of these Br-containing BODIPYs with
+arylaminoboronic acids (10 examples, 44 -84%). Seven of these derivatives displayed emission in the
+near-infrared region. The optical properties of compound 18 were rationalized in terms of its crystal
+structure.
+Introduction
+Owing to the many applications and interesting properties,
+push-pull (also termed D- ¤Ç-A systems, D ) donor, A )
+acceptor) molecular systems have attracted signi´¼ücant attention.1
+One of the more interesting properties that these compounds
+may display is the emission in the near-IR (NIR) region, which
+may offer potential application in medicine.
+2 In particular,
+polyarylamine derivatives are attractive electron-donor moieties.
+These compounds are standard hole-transport materials and
+studies on magnetic materials have been done based on the
+generation of high-spin triarylamine polyradicals.
+3 Similarly,
+there are reports in the literature of polyarylamines used in the
+fabrication of red OLEDs.
+4 With respect to the electron-
+accepting fragment, boradiazaindacene (BODIPY)5 derivatives
+were chosen in this work due to their well-documented
+
+==========================================================================================
+DOSYA: photophysical-properties-of-borondipyrromethene-analogues-in-solution.pdf
+------------------------------------------------------------------------------------------
+[meta baslik] No Job Name
+Photophysical Properties of Borondipyrromethene Analogues in Solution
+Wenwu Qin, Mukulesh Baruah, Mark Van der Auweraer, Frans C. De Schryver, and
+Noe1l Boens*
+Department of Chemistry, Katholieke Uni Versiteit LeuVen, Celestijnenlaan 200F,
+3001 HeVerlee (LeuVen), Belgium
+ReceiVed: May 19, 2005; In Final Form: June 28, 2005
+The photophysical properties of seven new 8-( p-substituted)phenyl analogues of 4,4-difluoro-3,5-dimethyl-
+8-(aryl)-4-bora-3a,4a-diaza-s-indacene (derivatives of the well-known fluorophore BODIPY) in several solvents
+have been studied by means of absorption and steady-state and time-resolved fluorimetry. For each compound,
+the fluorescence quantum yield and lifetime are lower in solvents with higher polarity owing to an increase
+in the rate of nonradiative deactivation. Increasing the electron withdrawing strength of the p-substituent on
+the phenyl group in position 8 also leads to lower fluorescence quantum yields and lifetimes. When the
+p-substituent on the phenyl group in position 8 is a tertiary amine [8-(4-piperidinophenyl), 8-(4- N,N-
+dimethylaminophenyl), and 8-(4-morpholinophenyl)], the low quantum yields of these compounds in more
+polar solvents can be rationalized by the inversion of the energy levels of an apolar, highly fluorescent and
+a polar, nonfluorescent excited state, where charge transfer from the tertiary amine to the BODIPY unit
+occurs. These amine analogues can be protonated at low pH in aqueous solution. Fluorescence titrations
+yielded p K
+a values of their conjugate ammonium salts which are in agreement with the electron donating
+tendency of the amine group: piperidino (4.15) > dimethylamino (2.37) > morpholino (1.47), with the p Ka
+values in parentheses. The rate constant of radiative deactivation ( kf) is the same for all compounds in all
+solvents studied ( kf ) 1.4  108 s-1).
+Introduction
+The design and development of fluorescent chemosensors for
+the detection of analytically important species is still an
+expanding area of research.
+1 Due to their favorable photophysi-
+cal and optoelectronic properties, 4,4-difluoro-4-bora-3a,4a-
+diaza-s-indacene
+2 (difluoroborondipyrromethene, BDP, or BO-
+DIPY3) derivatives have become favorite fluorophores in new
+fluorescent probes that have applications in many different
+areas.
+4 For example, BODIPY dyes can offer improved spectral
+characteristics compared to other conventional dyes when used

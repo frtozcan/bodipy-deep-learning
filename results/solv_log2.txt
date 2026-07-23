@@ -1,0 +1,29 @@
+Fiziksel tablo kapsami: %97.0 kayit
+  internal seed0 tamam
+  internal seed1 tamam
+  internal seed2 tamam
+  internal seed3 tamam
+  internal seed4 tamam
+  pooled_external seed0 tamam
+  pooled_external seed1 tamam
+  pooled_external seed2 tamam
+  pooled_external seed3 tamam
+  pooled_external seed4 tamam
+
+=== INTERNAL — MAE ===
+target    Abs. λmax (nm)   Em. λmax (nm)          log ε ΦF (quantum yield)
+variant                                                                   
+none      18.331 ± 1.119  14.351 ± 0.854  0.157 ± 0.002      0.225 ± 0.004
+generic   18.085 ± 0.714  14.454 ± 0.773  0.161 ± 0.005      0.197 ± 0.004
+physical  18.785 ± 0.871  14.711 ± 0.943  0.160 ± 0.007      0.192 ± 0.004
+film      18.473 ± 1.556  14.673 ± 0.841  0.161 ± 0.002      0.192 ± 0.005
+
+=== POOLED_EXTERNAL — MAE ===
+target    Abs. λmax (nm)   Em. λmax (nm)          log ε ΦF (quantum yield)
+variant                                                                   
+none      29.995 ± 1.531  34.479 ± 0.676  0.201 ± 0.007      0.303 ± 0.005
+generic   30.090 ± 0.345  33.920 ± 1.010  0.199 ± 0.006      0.298 ± 0.008
+physical  29.975 ± 1.367  34.716 ± 0.777  0.203 ± 0.005      0.300 ± 0.007
+film      29.965 ± 2.316  34.462 ± 1.979  0.198 ± 0.008      0.301 ± 0.007
+
+Tablo: results/solvent_ablation_summary.csv
