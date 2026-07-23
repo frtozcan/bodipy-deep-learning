@@ -1,8 +1,8 @@
 split,variant,target,MAE,R2,rho
-internal,film,Abs. λmax (nm),18.672 ± 1.279,0.908 ± 0.010,0.960 ± 0.004
-internal,film,Em. λmax (nm),14.635 ± 0.916,0.932 ± 0.007,0.962 ± 0.003
-internal,film,log ε,0.162 ± 0.002,0.521 ± 0.010,0.675 ± 0.010
-internal,film,ΦF (quantum yield),0.190 ± 0.006,0.575 ± 0.022,0.771 ± 0.014
+internal,film,Abs. λmax (nm),18.643 ± 1.430,0.910 ± 0.011,0.960 ± 0.004
+internal,film,Em. λmax (nm),14.637 ± 0.700,0.933 ± 0.006,0.962 ± 0.002
+internal,film,log ε,0.162 ± 0.002,0.520 ± 0.012,0.672 ± 0.008
+internal,film,ΦF (quantum yield),0.191 ± 0.005,0.574 ± 0.016,0.770 ± 0.007
 internal,generic,Abs. λmax (nm),18.085 ± 0.714,0.916 ± 0.005,0.960 ± 0.003
 internal,generic,Em. λmax (nm),14.454 ± 0.773,0.938 ± 0.006,0.963 ± 0.003
 internal,generic,log ε,0.161 ± 0.005,0.521 ± 0.025,0.679 ± 0.017
@@ -11,14 +11,14 @@ internal,none,Abs. λmax (nm),18.331 ± 1.119,0.913 ± 0.011,0.960 ± 0.002
 internal,none,Em. λmax (nm),14.351 ± 0.854,0.937 ± 0.005,0.962 ± 0.003
 internal,none,log ε,0.157 ± 0.002,0.552 ± 0.014,0.708 ± 0.009
 internal,none,ΦF (quantum yield),0.225 ± 0.004,0.427 ± 0.017,0.654 ± 0.014
-internal,physical,Abs. λmax (nm),18.885 ± 0.651,0.909 ± 0.007,0.957 ± 0.002
-internal,physical,Em. λmax (nm),14.772 ± 0.768,0.934 ± 0.005,0.962 ± 0.003
-internal,physical,log ε,0.159 ± 0.006,0.531 ± 0.024,0.685 ± 0.024
-internal,physical,ΦF (quantum yield),0.192 ± 0.004,0.569 ± 0.017,0.762 ± 0.012
-pooled_external,film,Abs. λmax (nm),29.909 ± 2.349,0.586 ± 0.055,0.746 ± 0.031
-pooled_external,film,Em. λmax (nm),34.300 ± 1.916,0.519 ± 0.062,0.696 ± 0.037
-pooled_external,film,log ε,0.198 ± 0.008,0.169 ± 0.045,0.500 ± 0.045
-pooled_external,film,ΦF (quantum yield),0.300 ± 0.007,0.054 ± 0.042,0.347 ± 0.046
+internal,physical,Abs. λmax (nm),18.778 ± 0.640,0.910 ± 0.006,0.956 ± 0.003
+internal,physical,Em. λmax (nm),14.786 ± 0.770,0.934 ± 0.005,0.963 ± 0.003
+internal,physical,log ε,0.161 ± 0.007,0.521 ± 0.028,0.677 ± 0.029
+internal,physical,ΦF (quantum yield),0.191 ± 0.003,0.569 ± 0.015,0.761 ± 0.010
+pooled_external,film,Abs. λmax (nm),30.037 ± 2.414,0.583 ± 0.055,0.743 ± 0.032
+pooled_external,film,Em. λmax (nm),34.462 ± 1.976,0.517 ± 0.061,0.694 ± 0.038
+pooled_external,film,log ε,0.197 ± 0.007,0.173 ± 0.039,0.500 ± 0.032
+pooled_external,film,ΦF (quantum yield),0.301 ± 0.008,0.048 ± 0.049,0.341 ± 0.049
 pooled_external,generic,Abs. λmax (nm),30.090 ± 0.345,0.575 ± 0.019,0.746 ± 0.013
 pooled_external,generic,Em. λmax (nm),33.920 ± 1.010,0.519 ± 0.024,0.717 ± 0.005
 pooled_external,generic,log ε,0.199 ± 0.006,0.160 ± 0.040,0.451 ± 0.043
@@ -27,7 +27,7 @@ pooled_external,none,Abs. λmax (nm),29.995 ± 1.531,0.573 ± 0.030,0.750 ± 0.0
 pooled_external,none,Em. λmax (nm),34.479 ± 0.676,0.493 ± 0.029,0.709 ± 0.013
 pooled_external,none,log ε,0.201 ± 0.007,0.150 ± 0.048,0.485 ± 0.055
 pooled_external,none,ΦF (quantum yield),0.303 ± 0.005,0.050 ± 0.017,0.306 ± 0.032
-pooled_external,physical,Abs. λmax (nm),30.005 ± 1.361,0.587 ± 0.027,0.745 ± 0.015
-pooled_external,physical,Em. λmax (nm),34.623 ± 0.781,0.528 ± 0.033,0.697 ± 0.019
-pooled_external,physical,log ε,0.204 ± 0.006,0.138 ± 0.044,0.447 ± 0.045
-pooled_external,physical,ΦF (quantum yield),0.300 ± 0.008,0.029 ± 0.041,0.333 ± 0.040
+pooled_external,physical,Abs. λmax (nm),29.907 ± 1.213,0.590 ± 0.026,0.746 ± 0.014
+pooled_external,physical,Em. λmax (nm),34.628 ± 0.599,0.525 ± 0.028,0.697 ± 0.016
+pooled_external,physical,log ε,0.204 ± 0.006,0.133 ± 0.042,0.440 ± 0.042
+pooled_external,physical,ΦF (quantum yield),0.302 ± 0.008,0.015 ± 0.037,0.324 ± 0.039

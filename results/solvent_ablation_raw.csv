@@ -7,14 +7,14 @@ internal,generic,0,Abs. λmax (nm),245,17.6198,0.9188,0.9613
 internal,generic,0,Em. λmax (nm),249,13.4825,0.9449,0.9649
 internal,generic,0,ΦF (quantum yield),244,0.1946,0.5452,0.7447
 internal,generic,0,log ε,150,0.1555,0.5475,0.7046
-internal,physical,0,Abs. λmax (nm),245,17.8595,0.9201,0.9606
-internal,physical,0,Em. λmax (nm),249,14.9654,0.9329,0.9603
-internal,physical,0,ΦF (quantum yield),244,0.1936,0.5664,0.7564
-internal,physical,0,log ε,150,0.1484,0.5691,0.7165
-internal,film,0,Abs. λmax (nm),245,17.2691,0.9192,0.9623
-internal,film,0,Em. λmax (nm),249,14.6449,0.9318,0.9612
-internal,film,0,ΦF (quantum yield),244,0.1831,0.6016,0.7856
-internal,film,0,log ε,150,0.1606,0.5221,0.6801
+internal,physical,0,Abs. λmax (nm),245,18.0412,0.919,0.9607
+internal,physical,0,Em. λmax (nm),249,15.2546,0.9331,0.9609
+internal,physical,0,ΦF (quantum yield),244,0.1918,0.5762,0.7664
+internal,physical,0,log ε,150,0.1513,0.5507,0.7018
+internal,film,0,Abs. λmax (nm),245,16.6452,0.9253,0.9641
+internal,film,0,Em. λmax (nm),249,14.3856,0.9362,0.9617
+internal,film,0,ΦF (quantum yield),244,0.1885,0.5863,0.7745
+internal,film,0,log ε,150,0.1586,0.5294,0.6796
 internal,none,1,Abs. λmax (nm),245,20.1975,0.8941,0.958
 internal,none,1,Em. λmax (nm),249,14.0093,0.9394,0.9629
 internal,none,1,ΦF (quantum yield),244,0.2309,0.4069,0.6419
@@ -23,14 +23,14 @@ internal,generic,1,Abs. λmax (nm),245,17.6787,0.9184,0.9584
 internal,generic,1,Em. λmax (nm),249,14.8955,0.9382,0.9638
 internal,generic,1,ΦF (quantum yield),244,0.2001,0.537,0.7411
 internal,generic,1,log ε,150,0.159,0.5215,0.6747
-internal,physical,1,Abs. λmax (nm),245,19.1905,0.9046,0.9549
-internal,physical,1,Em. λmax (nm),249,14.0904,0.9361,0.9635
-internal,physical,1,ΦF (quantum yield),244,0.1918,0.5648,0.7614
-internal,physical,1,log ε,150,0.1605,0.5318,0.6913
-internal,film,1,Abs. λmax (nm),245,17.8762,0.9104,0.9576
-internal,film,1,Em. λmax (nm),249,14.4345,0.9324,0.9593
-internal,film,1,ΦF (quantum yield),244,0.1859,0.592,0.7827
-internal,film,1,log ε,150,0.1615,0.5077,0.6723
+internal,physical,1,Abs. λmax (nm),245,19.0354,0.9043,0.9543
+internal,physical,1,Em. λmax (nm),249,14.3556,0.9353,0.9633
+internal,physical,1,ΦF (quantum yield),244,0.1908,0.5676,0.7649
+internal,physical,1,log ε,150,0.1599,0.5337,0.6918
+internal,film,1,Abs. λmax (nm),245,17.9038,0.912,0.9585
+internal,film,1,Em. λmax (nm),249,14.5553,0.9323,0.9604
+internal,film,1,ΦF (quantum yield),244,0.1864,0.5919,0.7791
+internal,film,1,log ε,150,0.1615,0.5003,0.6686
 internal,none,2,Abs. λmax (nm),245,18.3391,0.9147,0.9586
 internal,none,2,Em. λmax (nm),249,14.9954,0.9342,0.962
 internal,none,2,ΦF (quantum yield),244,0.2266,0.4112,0.6369
@@ -39,14 +39,14 @@ internal,generic,2,Abs. λmax (nm),245,17.9595,0.9152,0.9604
 internal,generic,2,Em. λmax (nm),249,13.8009,0.9408,0.966
 internal,generic,2,ΦF (quantum yield),244,0.1922,0.5699,0.7594
 internal,generic,2,log ε,150,0.1673,0.4959,0.661
-internal,physical,2,Abs. λmax (nm),245,19.6136,0.9056,0.957
-internal,physical,2,Em. λmax (nm),249,15.7854,0.9272,0.9591
-internal,physical,2,ΦF (quantum yield),244,0.1958,0.5436,0.7447
-internal,physical,2,log ε,150,0.1589,0.5314,0.6943
-internal,film,2,Abs. λmax (nm),245,18.482,0.9131,0.9626
-internal,film,2,Em. λmax (nm),249,13.4805,0.9401,0.9662
-internal,film,2,ΦF (quantum yield),244,0.1875,0.5779,0.7712
-internal,film,2,log ε,150,0.1625,0.5307,0.6806
+internal,physical,2,Abs. λmax (nm),245,19.6586,0.9041,0.9544
+internal,physical,2,Em. λmax (nm),249,15.8009,0.9273,0.9588
+internal,physical,2,ΦF (quantum yield),244,0.1966,0.5447,0.7439
+internal,physical,2,log ε,150,0.1583,0.5342,0.6981
+internal,film,2,Abs. λmax (nm),245,18.9569,0.9112,0.9609
+internal,film,2,Em. λmax (nm),249,14.1224,0.9375,0.9656
+internal,film,2,ΦF (quantum yield),244,0.1872,0.5781,0.7692
+internal,film,2,log ε,150,0.1633,0.5282,0.6771
 internal,none,3,Abs. λmax (nm),245,18.1941,0.9151,0.9599
 internal,none,3,Em. λmax (nm),249,15.4636,0.9291,0.9583
 internal,none,3,ΦF (quantum yield),244,0.2227,0.435,0.6607
@@ -55,14 +55,14 @@ internal,generic,3,Abs. λmax (nm),245,17.8276,0.92,0.9645
 internal,generic,3,Em. λmax (nm),249,15.2937,0.9299,0.9579
 internal,generic,3,ΦF (quantum yield),244,0.1955,0.5525,0.7568
 internal,generic,3,log ε,150,0.1664,0.4953,0.6711
-internal,physical,3,Abs. λmax (nm),245,18.9812,0.904,0.9575
-internal,physical,3,Em. λmax (nm),249,15.098,0.9312,0.9656
-internal,physical,3,ΦF (quantum yield),244,0.1864,0.5852,0.7708
-internal,physical,3,log ε,150,0.1637,0.507,0.6542
-internal,film,3,Abs. λmax (nm),245,20.5932,0.893,0.954
-internal,film,3,Em. λmax (nm),249,16.0428,0.9216,0.9615
-internal,film,3,ΦF (quantum yield),244,0.197,0.552,0.7555
-internal,film,3,log ε,150,0.1605,0.5308,0.6849
+internal,physical,3,Abs. λmax (nm),245,18.2834,0.911,0.9575
+internal,physical,3,Em. λmax (nm),249,14.7003,0.9348,0.9658
+internal,physical,3,ΦF (quantum yield),244,0.1875,0.5754,0.7591
+internal,physical,3,log ε,150,0.1704,0.4785,0.6355
+internal,film,3,Abs. λmax (nm),245,20.4059,0.8942,0.9544
+internal,film,3,Em. λmax (nm),249,15.8567,0.9232,0.9618
+internal,film,3,ΦF (quantum yield),244,0.1958,0.5564,0.7608
+internal,film,3,log ε,150,0.1618,0.5222,0.6749
 internal,none,4,Abs. λmax (nm),245,17.488,0.9212,0.963
 internal,none,4,Em. λmax (nm),249,13.3729,0.9427,0.9652
 internal,none,4,ΦF (quantum yield),244,0.2213,0.4433,0.6685
@@ -71,14 +71,14 @@ internal,generic,4,Abs. λmax (nm),245,19.3403,0.9067,0.9567
 internal,generic,4,Em. λmax (nm),249,14.7964,0.9354,0.9613
 internal,generic,4,ΦF (quantum yield),244,0.2001,0.543,0.7525
 internal,generic,4,log ε,150,0.1583,0.5438,0.6853
-internal,physical,4,Abs. λmax (nm),245,18.78,0.9094,0.9558
-internal,physical,4,Em. λmax (nm),249,13.9202,0.9409,0.9629
-internal,physical,4,ΦF (quantum yield),244,0.1899,0.5845,0.7744
-internal,physical,4,log ε,150,0.1633,0.5139,0.6684
-internal,film,4,Abs. λmax (nm),245,19.1392,0.9049,0.9619
-internal,film,4,Em. λmax (nm),249,14.5711,0.9332,0.9604
-internal,film,4,ΦF (quantum yield),244,0.1965,0.5536,0.7592
-internal,film,4,log ε,150,0.1645,0.5153,0.659
+internal,physical,4,Abs. λmax (nm),245,18.8713,0.9093,0.9549
+internal,physical,4,Em. λmax (nm),249,13.8209,0.9418,0.9643
+internal,physical,4,ΦF (quantum yield),244,0.1896,0.5819,0.7705
+internal,physical,4,log ε,150,0.164,0.5072,0.6579
+internal,film,4,Abs. λmax (nm),245,19.3057,0.9049,0.9622
+internal,film,4,Em. λmax (nm),249,14.2629,0.935,0.961
+internal,film,4,ΦF (quantum yield),244,0.1957,0.5583,0.7648
+internal,film,4,log ε,150,0.1629,0.5193,0.6607
 pooled_external,none,0,Abs. λmax (nm),790,30.8204,0.5732,0.7521
 pooled_external,none,0,Em. λmax (nm),790,33.9704,0.5224,0.723
 pooled_external,none,0,ΦF (quantum yield),748,0.2974,0.0674,0.3254
@@ -87,14 +87,14 @@ pooled_external,generic,0,Abs. λmax (nm),790,30.1412,0.5617,0.7436
 pooled_external,generic,0,Em. λmax (nm),790,35.4932,0.4835,0.7119
 pooled_external,generic,0,ΦF (quantum yield),748,0.2948,0.0703,0.3698
 pooled_external,generic,0,log ε,544,0.1954,0.1963,0.4803
-pooled_external,physical,0,Abs. λmax (nm),790,30.1141,0.5921,0.752
-pooled_external,physical,0,Em. λmax (nm),790,34.7461,0.536,0.6992
-pooled_external,physical,0,ΦF (quantum yield),748,0.2945,0.0738,0.3557
-pooled_external,physical,0,log ε,544,0.2031,0.1538,0.4603
-pooled_external,film,0,Abs. λmax (nm),790,30.9453,0.5638,0.7347
-pooled_external,film,0,Em. λmax (nm),790,35.0885,0.5254,0.6882
-pooled_external,film,0,ΦF (quantum yield),748,0.2962,0.067,0.359
-pooled_external,film,0,log ε,544,0.1981,0.1767,0.5278
+pooled_external,physical,0,Abs. λmax (nm),790,29.9005,0.6035,0.7566
+pooled_external,physical,0,Em. λmax (nm),790,34.8789,0.5318,0.6977
+pooled_external,physical,0,ΦF (quantum yield),748,0.2965,0.0562,0.3406
+pooled_external,physical,0,log ε,544,0.2027,0.1534,0.4575
+pooled_external,film,0,Abs. λmax (nm),790,31.3386,0.5573,0.7302
+pooled_external,film,0,Em. λmax (nm),790,35.8678,0.5098,0.6737
+pooled_external,film,0,ΦF (quantum yield),748,0.2976,0.068,0.3543
+pooled_external,film,0,log ε,544,0.197,0.1816,0.5155
 pooled_external,none,1,Abs. λmax (nm),790,32.0425,0.5378,0.719
 pooled_external,none,1,Em. λmax (nm),790,34.1083,0.4781,0.7072
 pooled_external,none,1,ΦF (quantum yield),748,0.2978,0.0683,0.3508
@@ -103,14 +103,14 @@ pooled_external,generic,1,Abs. λmax (nm),790,30.3286,0.5978,0.751
 pooled_external,generic,1,Em. λmax (nm),790,32.8841,0.5434,0.7247
 pooled_external,generic,1,ΦF (quantum yield),748,0.2885,0.1029,0.4062
 pooled_external,generic,1,log ε,544,0.1992,0.1564,0.4589
-pooled_external,physical,1,Abs. λmax (nm),790,31.9246,0.5565,0.7236
-pooled_external,physical,1,Em. λmax (nm),790,35.6964,0.5038,0.6775
-pooled_external,physical,1,ΦF (quantum yield),748,0.2902,0.0629,0.381
-pooled_external,physical,1,log ε,544,0.2133,0.0699,0.372
-pooled_external,film,1,Abs. λmax (nm),790,32.4359,0.5372,0.7212
-pooled_external,film,1,Em. λmax (nm),790,35.5265,0.4927,0.6783
-pooled_external,film,1,ΦF (quantum yield),748,0.2923,0.0894,0.4086
-pooled_external,film,1,log ε,544,0.2025,0.1383,0.4458
+pooled_external,physical,1,Abs. λmax (nm),790,31.4516,0.565,0.7293
+pooled_external,physical,1,Em. λmax (nm),790,35.3711,0.5071,0.6812
+pooled_external,physical,1,ΦF (quantum yield),748,0.2919,0.0459,0.3737
+pooled_external,physical,1,log ε,544,0.2136,0.0684,0.3682
+pooled_external,film,1,Abs. λmax (nm),790,32.7946,0.5336,0.7122
+pooled_external,film,1,Em. λmax (nm),790,35.2541,0.502,0.6785
+pooled_external,film,1,ΦF (quantum yield),748,0.2921,0.0964,0.405
+pooled_external,film,1,log ε,544,0.2019,0.1454,0.465
 pooled_external,none,2,Abs. λmax (nm),790,28.9684,0.5739,0.754
 pooled_external,none,2,Em. λmax (nm),790,34.4621,0.5208,0.7208
 pooled_external,none,2,ΦF (quantum yield),748,0.3044,0.0415,0.2878
@@ -119,14 +119,14 @@ pooled_external,generic,2,Abs. λmax (nm),790,30.2461,0.5745,0.7591
 pooled_external,generic,2,Em. λmax (nm),790,34.1641,0.5378,0.7202
 pooled_external,generic,2,ΦF (quantum yield),748,0.3086,0.0008,0.3112
 pooled_external,generic,2,log ε,544,0.2034,0.1393,0.4114
-pooled_external,physical,2,Abs. λmax (nm),790,28.83,0.6202,0.7614
-pooled_external,physical,2,Em. λmax (nm),790,33.5039,0.5759,0.7228
-pooled_external,physical,2,ΦF (quantum yield),748,0.307,-0.0157,0.281
-pooled_external,physical,2,log ε,544,0.1989,0.1833,0.4767
-pooled_external,film,2,Abs. λmax (nm),790,26.1682,0.6786,0.7968
-pooled_external,film,2,Em. λmax (nm),790,30.8948,0.6201,0.7609
-pooled_external,film,2,ΦF (quantum yield),748,0.3106,-0.0174,0.2801
-pooled_external,film,2,log ε,544,0.2043,0.1333,0.4951
+pooled_external,physical,2,Abs. λmax (nm),790,29.2068,0.6131,0.7569
+pooled_external,physical,2,Em. λmax (nm),790,33.7256,0.5673,0.7185
+pooled_external,physical,2,ΦF (quantum yield),748,0.309,-0.0304,0.2699
+pooled_external,physical,2,log ε,544,0.1997,0.1747,0.4654
+pooled_external,film,2,Abs. λmax (nm),790,26.3393,0.6775,0.7956
+pooled_external,film,2,Em. λmax (nm),790,30.9718,0.6187,0.7611
+pooled_external,film,2,ΦF (quantum yield),748,0.313,-0.0331,0.2692
+pooled_external,film,2,log ε,544,0.2031,0.1416,0.4949
 pooled_external,none,3,Abs. λmax (nm),790,28.1369,0.6191,0.7683
 pooled_external,none,3,Em. λmax (nm),790,34.2105,0.492,0.6911
 pooled_external,none,3,ΦF (quantum yield),748,0.3085,0.0281,0.2694
@@ -135,14 +135,14 @@ pooled_external,generic,3,Abs. λmax (nm),790,30.2501,0.5514,0.726
 pooled_external,generic,3,Em. λmax (nm),790,33.8169,0.5236,0.712
 pooled_external,generic,3,ΦF (quantum yield),748,0.3037,0.0447,0.3012
 pooled_external,generic,3,log ε,544,0.1922,0.2017,0.5023
-pooled_external,physical,3,Abs. λmax (nm),790,28.5859,0.6035,0.7509
-pooled_external,physical,3,Em. λmax (nm),790,34.678,0.4917,0.6787
-pooled_external,physical,3,ΦF (quantum yield),748,0.3095,-0.0094,0.3038
-pooled_external,physical,3,log ε,544,0.1988,0.1619,0.4828
-pooled_external,film,3,Abs. λmax (nm),790,30.5443,0.5629,0.725
-pooled_external,film,3,Em. λmax (nm),790,35.013,0.5049,0.6703
-pooled_external,film,3,ΦF (quantum yield),748,0.3005,0.0737,0.3521
-pooled_external,film,3,log ε,544,0.185,0.2442,0.5613
+pooled_external,physical,3,Abs. λmax (nm),790,28.3352,0.6104,0.7536
+pooled_external,physical,3,Em. λmax (nm),790,34.613,0.4946,0.6825
+pooled_external,physical,3,ΦF (quantum yield),748,0.31,-0.0144,0.3033
+pooled_external,physical,3,log ε,544,0.1999,0.1547,0.4727
+pooled_external,film,3,Abs. λmax (nm),790,30.2266,0.5669,0.7283
+pooled_external,film,3,Em. λmax (nm),790,35.1211,0.5003,0.6678
+pooled_external,film,3,ΦF (quantum yield),748,0.3017,0.0578,0.345
+pooled_external,film,3,log ε,544,0.1862,0.2361,0.5466
 pooled_external,none,4,Abs. λmax (nm),790,30.0083,0.5601,0.7569
 pooled_external,none,4,Em. λmax (nm),790,35.6451,0.4541,0.7019
 pooled_external,none,4,ΦF (quantum yield),748,0.3054,0.0466,0.296
@@ -151,11 +151,11 @@ pooled_external,generic,4,Abs. λmax (nm),790,29.4844,0.5898,0.7511
 pooled_external,generic,4,Em. λmax (nm),790,33.2416,0.5067,0.7179
 pooled_external,generic,4,ΦF (quantum yield),748,0.2968,0.0701,0.3503
 pooled_external,generic,4,log ε,544,0.2072,0.105,0.4037
-pooled_external,physical,4,Abs. λmax (nm),790,30.5703,0.5651,0.7356
-pooled_external,physical,4,Em. λmax (nm),790,34.4884,0.5303,0.7051
-pooled_external,physical,4,ΦF (quantum yield),748,0.3,0.0343,0.3438
-pooled_external,physical,4,log ε,544,0.2059,0.1196,0.4428
-pooled_external,film,4,Abs. λmax (nm),790,29.4495,0.5859,0.7517
-pooled_external,film,4,Em. λmax (nm),790,34.9751,0.4542,0.6846
-pooled_external,film,4,ΦF (quantum yield),748,0.3005,0.0582,0.3371
-pooled_external,film,4,log ε,544,0.1992,0.1541,0.4723
+pooled_external,physical,4,Abs. λmax (nm),790,30.6434,0.5601,0.7323
+pooled_external,physical,4,Em. λmax (nm),790,34.5518,0.5267,0.7035
+pooled_external,physical,4,ΦF (quantum yield),748,0.3023,0.0155,0.3316
+pooled_external,physical,4,log ε,544,0.2061,0.1148,0.4382
+pooled_external,film,4,Abs. λmax (nm),790,29.4852,0.5812,0.7496
+pooled_external,film,4,Em. λmax (nm),790,35.0945,0.4543,0.6868
+pooled_external,film,4,ΦF (quantum yield),748,0.3015,0.05,0.3329
+pooled_external,film,4,log ε,544,0.1981,0.1601,0.4786
