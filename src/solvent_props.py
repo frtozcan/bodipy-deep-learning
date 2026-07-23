@@ -7,8 +7,10 @@ TUM DEGERLER BIRINCIL KAYNAKLARDAN DOGRULANMISTIR. Sicaklik: TAMAMI 25 C.
   22/22 cozucu dogrulandi. n_D degerleri 25 C'dedir (Reichardt Ek A 20 C veriyordu;
   tutarlilik icin Marcus'un 25 C degerleri tercih edildi -> tum ozellikler ayni sicaklikta).
 * eta -> Marcus, ayni kitap, Tablo 3.9. 20/22 dogrulandi.
-  ISTISNA: 2-propanol ve 1-butanol viskozitesi Tablo 3.9'da eksik sayfada kaldi; mevcut
-  degerler standart derlemelerden ve ayni tablodaki komsu alkollerle tutarli.
+  ISTISNA: 2-propanol ve 1-butanol viskozitesi Tablo 3.9'un eksik sayfasinda kaldi.
+  Bagimsiz kontrol: 2-propanol 2.038 = standart 25 C degeri (birebir teyit edildi);
+  1-butanol 2.544, alternatif derlemelerde 2.573 (%1.1 fark, ihmal edilebilir) ve
+  Marcus'un butanol dizisine oturuyor (n- 2.54 < 2- 3.00 < i- 3.33 < t- 4.44).
 * ET(30) -> Reichardt, Chem. Rev. 1994, 94, 2319, Tablo 2 (ref [22]). 22/22.
 * pi*, alpha, beta -> Kamlet, Abboud, Abraham & Taft, J. Org. Chem. 1983, 48, 2877,
   Tablo I (ref [23]). Parantezli (tahmini) degerler '~'. Kamlet'te YOK: 1-oktanol,
